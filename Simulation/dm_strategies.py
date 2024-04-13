@@ -126,3 +126,110 @@ def LLM_based(is_stochastic):
             review_llm_score = proba2go[information["review_id"]]
             return int(np.random.rand() <= review_llm_score)
         return func
+
+
+def HRQ_plus_LLM(history_window, quality_threshold):
+    def func(information):
+        if len(information["previous_rounds"]) == 0 \
+                or history_window == 0 \
+                or np.min(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
+                                     or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
+                                    information["previous_rounds"][
+                                    -history_window:]])) == 1:  # cooperation from *result's* perspective
+            if information["bot_message"] >= quality_threshold:  # good hotel from user's perspective
+                return 1
+            else:
+                return 0
+        else:
+            return LLM_based(False)
+    return func
+
+
+def HRQ_relaxed_1(history_window, quality_threshold):
+    def func(information):
+
+        if len(information["previous_rounds"]) == 0 \
+                or history_window == 0 \
+                or np.average(np.array([(r[BOT_ACTION] - r[REVIEWS].mean()) for r in
+                                    information["previous_rounds"][
+                                    -history_window:]])) <= 1:  # in average the difference between bot's action and review is less than 1
+            if information["bot_message"] >= quality_threshold:  # good hotel from user's perspective
+                return 1
+            else:
+                return 0
+        else:
+            return 0
+    return func
+
+
+def HRQ_relaxed_1_plus_LLM(history_window, quality_threshold):
+    def func(information):
+        with open(f"data/baseline_proba2go.txt", 'r') as file:
+            proba2go = json.load(file)
+            proba2go = {int(k): v for k, v in proba2go.items()}
+        review_llm_score = proba2go[information["review_id"]]
+        if len(information["previous_rounds"]) == 0 \
+                or history_window == 0 \
+                or np.average(np.array([(r[BOT_ACTION] - r[REVIEWS].mean()) for r in
+                                    information["previous_rounds"][
+                                    -history_window:]])) <= 1:  # in average the difference between bot's action and review is less than 1
+            if information["bot_message"] >= quality_threshold:  # good hotel from user's perspective
+                return 1
+            else:
+                return 0
+        else:
+            return LLM_based(False)
+    return func
+
+
+def HRQ_relaxed_2(history_window, quality_threshold):
+    def func(information):
+        if len(information["previous_rounds"]) == 0 \
+                or history_window == 0 \
+                or np.average(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
+                                     or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
+                                    information["previous_rounds"][
+                                    -history_window:]])) >= 0.8:  # cooperation from *result's* perspective
+            if information["bot_message"] >= quality_threshold:  # good hotel from user's perspective
+                return 1
+            else:
+                return 0
+        else:
+            return 0
+    return func
+
+
+def HRQ_relaxed_2_plus_LLM(history_window, quality_threshold):
+    def func(information):
+        if len(information["previous_rounds"]) == 0 \
+                or history_window == 0 \
+                or np.average(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
+                                     or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
+                                    information["previous_rounds"][
+                                    -history_window:]])) >= 0.8:  # cooperation from *result's* perspective
+            if information["bot_message"] >= quality_threshold:  # good hotel from user's perspective
+                return 1
+            else:
+                return 0
+        else:
+            return LLM_based(False)
+    return func
+
+
+def HRQ_plus_LLM_plus_random_simultanly(history_window, quality_threshold):
+    def func(information):
+        if len(information["previous_rounds"]) == 0 \
+                or history_window == 0 \
+                or np.min(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
+                                     or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
+                                    information["previous_rounds"][
+                                    -history_window:]])) == 1:  # cooperation from *result's* perspective
+            if information["bot_message"] >= quality_threshold and LLM_based(False):  # good hotel from user's perspective
+                return 1
+            elif information["bot_message"] <= quality_threshold and not LLM_based(False):
+                return 0
+            else:
+                return np.random.randint(2)
+        else:
+            return LLM_based(False)
+    return func
