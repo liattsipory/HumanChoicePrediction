@@ -248,6 +248,13 @@ class OnlineSimulationDataSet(Dataset):
                                                                                             quality_threshold)),
                             4: ("LLM_static",  basic_nature[3], user_strategies.LLM_based(is_stochastic=False)),
                             5: ("LLM_dynamic", basic_nature[4], user_strategies.LLM_based(is_stochastic=True)),
+                            6: ("HRQ_plus_LLM", basic_nature[5], user_strategies.HRQ_plus_LLM(history_window, quality_threshold)),
+                            7: ("HRQ_relaxed_1", basic_nature[6], user_strategies.HRQ_relaxed_1(history_window, quality_threshold)),
+                            8: ("HRQ_relaxed_1_plus_LLM", basic_nature[7], user_strategies.HRQ_relaxed_1_plus_LLM(history_window, quality_threshold)),
+                            9: ("HRQ_relaxed_2", basic_nature[8], user_strategies.HRQ_relaxed_2(history_window, quality_threshold)),
+                            10: ("HRQ_relaxed_2_plus_LLM", basic_nature[9], user_strategies.HRQ_relaxed_2_plus_LLM(history_window, quality_threshold)),
+                            11: ("HRQ_plus_LLM_plus_random", basic_nature[10], user_strategies.HRQ_plus_LLM_plus_random(history_window, quality_threshold)),
+
                             }
             self.nature = np.random.rand(len(self.ACTIONS)) * np.array([v[1] for v in self.ACTIONS.values()])
             self.nature = self.nature / sum(self.nature)

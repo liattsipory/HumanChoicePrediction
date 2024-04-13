@@ -10,7 +10,7 @@ command = [
         "${args}"
     ]
 
-sweep_config = {
+sweep_config_1 = {
     "name": "LSTM: SimFactor=0/4 for any features representation",
     "method": "grid",
     "metric": {
@@ -23,11 +23,12 @@ sweep_config = {
         "seed": {"values": list(range(1, 6))},
         "online_simulation_factor": {"values": [0, 4]},
         "features": {"values": ["EFs", "GPT4", "BERT"]},
+        "basic_nature": {"values": [18, 19, 20]},
     },
     "command": command
 }
 
 # Initialize a new sweep
-sweep_id = wandb.sweep(sweep=sweep_config, project=project)
+sweep_id = wandb.sweep(sweep=sweep_config_1, project=project)
 print("run this line to run your agent in a screen:")
 print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
