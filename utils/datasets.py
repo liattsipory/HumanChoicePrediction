@@ -249,7 +249,7 @@ class OnlineSimulationDataSet(Dataset):
                             4: ("LLM_stochastic (language-based)",  basic_nature[3], user_strategies.LLM_based(is_stochastic=True)),
                             5: ("LLM deterministic", basic_nature[4], user_strategies.LLM_based(is_stochastic=False)),
                             6: ("HRQ_plus_LLM", basic_nature[5], user_strategies.HRQ_plus_LLM(history_window, quality_threshold)),
-                            7: ("HRQ_relaxed_1", basic_nature[6], user_strategies.HRQ_relaxed_1(history_window, quality_threshold)),
+                            7: ("HRQ_relaxed_1_4", basic_nature[6], user_strategies.HRQ_relaxed_1(history_window, quality_threshold)),
                             8: ("HRQ_relaxed_1_plus_LLM", basic_nature[7], user_strategies.HRQ_relaxed_1_plus_LLM(history_window, quality_threshold)),
                             9: ("HRQ_relaxed_2", basic_nature[8], user_strategies.HRQ_relaxed_2(history_window, quality_threshold)),
                             10: ("HRQ_relaxed_2_plus_LLM", basic_nature[9], user_strategies.HRQ_relaxed_2_plus_LLM(history_window, quality_threshold)),
