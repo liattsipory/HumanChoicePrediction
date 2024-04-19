@@ -1,0 +1,8 @@
+wandb_version: 1
+
+ENV_HPT_mode:
+  value: true
+features:
+  value: EFs
+seed:
+  value: 1

@@ -91,3 +91,32 @@
 	online_simulation_factor: 4
 	seed: 1
 2024-04-19 15:59:21 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=4 --seed=1
+2024-04-19 15:59:26 INFO Running runs: ['ucvl2au6']
+2024-04-19 15:59:26 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-04-19 15:59:26 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-04-19 15:59:48 INFO Running runs: []
+2024-04-19 15:59:48 INFO Agent received command: run
+2024-04-19 15:59:48 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	features: EFs
+	seed: 1
+2024-04-19 15:59:48 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --features=EFs --seed=1
+2024-04-19 15:59:53 INFO Running runs: ['pr2dib13']
+2024-04-19 15:59:53 INFO Cleaning up finished run: pr2dib13
+2024-04-19 15:59:54 INFO Agent received command: run
+2024-04-19 15:59:54 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	features: EFs
+	seed: 2
+2024-04-19 15:59:54 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --features=EFs --seed=2
+2024-04-19 15:59:59 INFO Running runs: ['4c1vzs54']
+2024-04-19 15:59:59 INFO Cleaning up finished run: 4c1vzs54
+2024-04-19 15:59:59 INFO Agent received command: run
+2024-04-19 15:59:59 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	features: EFs
+	seed: 3
+2024-04-19 15:59:59 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --features=EFs --seed=3
+2024-04-19 16:00:04 INFO Running runs: ['kkzl3iyb']
+2024-04-19 16:00:04 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-04-19 16:00:04 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
