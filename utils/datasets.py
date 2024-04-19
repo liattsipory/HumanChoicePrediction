@@ -239,15 +239,15 @@ class OnlineSimulationDataSet(Dataset):
                 negative_topics = np.array(negative_topics)
                 np.random.shuffle(negative_topics)
 
-            self.ACTIONS = {0: ("correct", 0, user_strategies.correct_action),
+            self.ACTIONS = {0: ("correct - oracle", 0, user_strategies.correct_action),
                             1: ("random", basic_nature[0], user_strategies.random_action),
-                            2: ("history_and_review_quality", basic_nature[1],
+                            2: ("history_and_review_quality (trustful)", basic_nature[1],
                                 user_strategies.history_and_review_quality(history_window, quality_threshold)),
                             3: ("topic based", basic_nature[2], user_strategies.topic_based(positive_topics,
                                                                                             negative_topics,
                                                                                             quality_threshold)),
-                            4: ("LLM_static",  basic_nature[3], user_strategies.LLM_based(is_stochastic=False)),
-                            5: ("LLM_dynamic", basic_nature[4], user_strategies.LLM_based(is_stochastic=True)),
+                            4: ("LLM_stochastic (language-based)",  basic_nature[3], user_strategies.LLM_based(is_stochastic=True)),
+                            5: ("LLM deterministic", basic_nature[4], user_strategies.LLM_based(is_stochastic=False)),
                             6: ("HRQ_plus_LLM", basic_nature[5], user_strategies.HRQ_plus_LLM(history_window, quality_threshold)),
                             7: ("HRQ_relaxed_1", basic_nature[6], user_strategies.HRQ_relaxed_1(history_window, quality_threshold)),
                             8: ("HRQ_relaxed_1_plus_LLM", basic_nature[7], user_strategies.HRQ_relaxed_1_plus_LLM(history_window, quality_threshold)),
