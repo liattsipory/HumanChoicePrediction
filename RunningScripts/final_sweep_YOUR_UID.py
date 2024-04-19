@@ -1,5 +1,5 @@
 import wandb
-YOUR_WANDB_USERNAME = "eilamshapira"
+YOUR_WANDB_USERNAME = "noa7566"
 project = "NLP2024_PROJECT_YOUR_UID"
 
 command = [
@@ -23,6 +23,7 @@ sweep_config = {
         "seed": {"values": list(range(1, 6))},
         "online_simulation_factor": {"values": [0, 4]},
         "features": {"values": ["EFs", "GPT4", "BERT"]},
+        #"basic_nature": {"values": [18,19,20]},
     },
     "command": command
 }

@@ -8,9 +8,8 @@ import matplotlib.pyplot as plt
 import sklearn
 from sklearn import metrics
 
-#
 class wandb_results:
-    def __init__(self, project_id, wandb_username="noa7566"): 
+    def __init__(self, project_id, wandb_username="eilamshapira"): 
         self.api = wandb.Api(timeout=60)
         self.project_id = project_id
         self.wandb_username = wandb_username
@@ -18,7 +17,6 @@ class wandb_results:
     def get_sweep_results(self, sweep_id, metric="accuracy_all", best_epoch=False, get_servers=False, reset_api=False, read_csv_if_exist=True, save_to_csv=True):
         if reset_api:
             self.reset_api()
-    
 
         print(f"Download {sweep_id=} data...")
         runs = self.api.sweep(f"{self.wandb_username}/{self.project_id}/{sweep_id}").runs

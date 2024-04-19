@@ -1,0 +1,20 @@
+
+Start training the environment...
+################
+# Epoch 0
+################
+  0%|                                                                     | 0/840 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/StrategyTransfer.py", line 108, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/environments/environment.py", line 134, in train
+    online_simulation_dataset = OnlineSimulationDataSet(config=self.config)
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 218, in __init__
+    self.new_user()
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 345, in new_user
+    user = self.SimulatedUser(user_improve=self.user_improve, basic_nature=self.basic_nature,
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 251, in __init__
+    6: ("HRQ_plus_LLM", basic_nature[5], user_strategies.HRQ_plus_LLM(history_window, quality_threshold)),
+IndexError: list index out of range

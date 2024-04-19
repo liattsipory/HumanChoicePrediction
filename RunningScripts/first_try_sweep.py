@@ -19,7 +19,7 @@ sweep_config_1 = {
         "name": "AUC.test.max"
     },
     "parameters": {
-        "ENV_HPT_mode": {"values": [False]},
+        "ENV_HPT_mode": {"values": [True]},
         "architecture": {"values": ["LSTM"]},
         "seed": {"values": list(range(1, 6))},
         "online_simulation_factor": {"values": [0, 4]},
