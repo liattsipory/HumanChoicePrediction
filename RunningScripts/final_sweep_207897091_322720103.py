@@ -13,10 +13,10 @@ command = [
 sweep_config_1 = {
     "name": "decide between relaxed strategies",
     "method": "grid",
-    # "metric": {
-    #     "goal": "maximize",
-    #     "name": "AUC.test.max"
-    # },
+    "metric": {
+        "goal": "maximize",
+        "name": "AUC.test.max"
+    },
     "parameters": {
         "ENV_HPT_mode": {"values": [True]},
         "seed": {"values": list(range(1, 6))},
@@ -30,10 +30,10 @@ sweep_config_1 = {
 sweep_config_0 = {
     "name": "initialize",
     "method": "grid",
-    "metric": {
-        "goal": "maximize",
-        "name": "AUC.test.max"
-    },
+    # "metric": {
+    #     "goal": "maximize",
+    #     "name": "AUC.test.max"
+    # },
     "parameters": {
         "ENV_HPT_mode": {"values": [True]},
         "seed": {"values": list(range(1, 6))},
@@ -43,10 +43,10 @@ sweep_config_0 = {
     "command": command
 }
 # Initialize a new sweep
-sweep_id = wandb.sweep(sweep=sweep_config_1, project=project)
-print("run this line to run your agent in a screen:")
-print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
-
-# sweep_id = wandb.sweep(sweep=sweep_config_0, project=project)
+# sweep_id = wandb.sweep(sweep=sweep_config_1, project=project)
 # print("run this line to run your agent in a screen:")
 # print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
+
+sweep_id = wandb.sweep(sweep=sweep_config_0, project=project)
+print("run this line to run your agent in a screen:")
+print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")

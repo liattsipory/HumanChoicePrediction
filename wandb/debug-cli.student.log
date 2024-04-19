@@ -30,3 +30,64 @@
 2024-04-19 13:30:35 INFO Running runs: ['cch6e7dj']
 2024-04-19 13:30:35 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
 2024-04-19 13:30:35 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-04-19 15:57:12 INFO Running runs: []
+2024-04-19 15:57:12 INFO Agent received command: run
+2024-04-19 15:57:12 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 1
+2024-04-19 15:57:12 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=1
+2024-04-19 15:57:17 INFO Running runs: ['dng4af9j']
+2024-04-19 15:57:17 INFO Cleaning up finished run: dng4af9j
+2024-04-19 15:57:17 INFO Agent received command: run
+2024-04-19 15:57:17 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 2
+2024-04-19 15:57:17 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=2
+2024-04-19 15:57:22 INFO Running runs: ['c7ofsgh8']
+2024-04-19 15:57:22 INFO Cleaning up finished run: c7ofsgh8
+2024-04-19 15:57:23 INFO Agent received command: run
+2024-04-19 15:57:23 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 3
+2024-04-19 15:57:23 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=3
+2024-04-19 15:57:28 INFO Running runs: ['cch6e7dj']
+2024-04-19 15:57:28 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-04-19 15:57:28 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2024-04-19 15:59:10 INFO Running runs: []
+2024-04-19 15:59:10 INFO Agent received command: run
+2024-04-19 15:59:10 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 4
+2024-04-19 15:59:10 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=4
+2024-04-19 15:59:15 INFO Running runs: ['pq4ecw7r']
+2024-04-19 15:59:15 INFO Cleaning up finished run: pq4ecw7r
+2024-04-19 15:59:16 INFO Agent received command: run
+2024-04-19 15:59:16 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 5
+2024-04-19 15:59:16 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=5
+2024-04-19 15:59:21 INFO Running runs: ['9lpvlcfv']
+2024-04-19 15:59:21 INFO Cleaning up finished run: 9lpvlcfv
+2024-04-19 15:59:21 INFO Agent received command: run
+2024-04-19 15:59:21 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 4
+	seed: 1
+2024-04-19 15:59:21 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=4 --seed=1
