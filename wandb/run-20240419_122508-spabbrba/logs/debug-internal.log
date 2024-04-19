@@ -870,3 +870,124 @@
 2024-04-19 12:37:26,349 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: stop_status
 2024-04-19 12:37:26,372 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: internal_messages
 2024-04-19 12:37:26,929 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:28,228 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:37:28,929 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:30,930 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:32,931 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:33,305 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:37:34,874 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-19 12:37:34,891 DEBUG   SenderThread:2902196 [sender.py:send():379] send: history
+2024-04-19 12:37:34,893 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: summary_record
+2024-04-19 12:37:34,894 INFO    SenderThread:2902196 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-19 12:37:34,931 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/wandb-summary.json
+2024-04-19 12:37:34,931 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:36,932 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:38,380 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:37:38,803 DEBUG   SenderThread:2902196 [sender.py:send():379] send: stats
+2024-04-19 12:37:38,933 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:40,933 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:41,346 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-19 12:37:41,346 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: stop_status
+2024-04-19 12:37:41,388 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-19 12:37:42,934 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:43,489 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:37:44,935 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:46,936 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:47,932 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: log_artifact
+2024-04-19 12:37:47,933 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: log_artifact
+2024-04-19 12:37:47,955 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-19 12:37:48,735 INFO    wandb-upload_0:2902196 [upload_job.py:push():89] Uploaded file /home/student/.local/share/wandb/artifacts/staging/tmpzt1ycje0
+2024-04-19 12:37:48,937 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:49,382 INFO    SenderThread:2902196 [sender.py:send_request_log_artifact():1456] logged artifact spabbrba_predictions_epoch_10 - {'id': 'QXJ0aWZhY3Q6ODAyNTIxMDc4', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NDMyMzM2Mg==', 'latestArtifact': None}}
+2024-04-19 12:37:49,382 DEBUG   SenderThread:2902196 [sender.py:send():379] send: history
+2024-04-19 12:37:49,384 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: summary_record
+2024-04-19 12:37:49,386 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:37:49,386 INFO    SenderThread:2902196 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-19 12:37:49,938 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/wandb-summary.json
+2024-04-19 12:37:50,938 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:52,939 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:54,445 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:37:54,939 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:56,346 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-19 12:37:56,346 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: stop_status
+2024-04-19 12:37:56,388 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-19 12:37:56,940 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:58,941 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:37:59,580 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:00,941 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:02,942 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:04,642 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:04,943 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:06,943 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:08,803 DEBUG   SenderThread:2902196 [sender.py:send():379] send: stats
+2024-04-19 12:38:08,944 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:09,749 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:10,945 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:11,354 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-19 12:38:11,354 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: stop_status
+2024-04-19 12:38:11,396 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-19 12:38:12,946 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:14,853 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:14,946 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:16,947 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:18,947 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:19,946 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:20,948 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:22,949 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:24,950 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:25,013 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:26,348 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-19 12:38:26,348 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: stop_status
+2024-04-19 12:38:26,392 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-19 12:38:26,950 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:28,951 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:30,120 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:30,952 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:32,953 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:35,215 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:35,954 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:37,955 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:38,804 DEBUG   SenderThread:2902196 [sender.py:send():379] send: stats
+2024-04-19 12:38:39,955 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:40,236 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:41,348 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-19 12:38:41,349 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: stop_status
+2024-04-19 12:38:41,396 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-19 12:38:41,956 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:42,179 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-19 12:38:42,187 DEBUG   SenderThread:2902196 [sender.py:send():379] send: history
+2024-04-19 12:38:42,188 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: summary_record
+2024-04-19 12:38:42,190 INFO    SenderThread:2902196 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-19 12:38:42,956 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/wandb-summary.json
+2024-04-19 12:38:43,957 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:45,294 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:45,957 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:47,958 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:49,959 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:50,308 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:51,959 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:53,960 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:55,178 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: log_artifact
+2024-04-19 12:38:55,178 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: log_artifact
+2024-04-19 12:38:55,202 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-19 12:38:55,901 INFO    wandb-upload_0:2902196 [upload_job.py:push():89] Uploaded file /home/student/.local/share/wandb/artifacts/staging/tmp3q109suo
+2024-04-19 12:38:55,960 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:56,355 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-19 12:38:56,384 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-19 12:38:56,587 INFO    SenderThread:2902196 [sender.py:send_request_log_artifact():1456] logged artifact spabbrba_predictions_epoch_11 - {'id': 'QXJ0aWZhY3Q6ODAyNTIxOTA2', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NDMyMzY0NA==', 'latestArtifact': None}}
+2024-04-19 12:38:56,587 DEBUG   SenderThread:2902196 [sender.py:send():379] send: history
+2024-04-19 12:38:56,589 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: summary_record
+2024-04-19 12:38:56,591 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:38:56,591 INFO    SenderThread:2902196 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-19 12:38:56,592 DEBUG   SenderThread:2902196 [sender.py:send_request():406] send_request: stop_status
+2024-04-19 12:38:56,961 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/wandb-summary.json
+2024-04-19 12:38:57,961 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:58,961 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:38:59,962 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:39:01,632 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:39:01,962 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:39:03,963 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:39:05,964 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:39:06,743 DEBUG   HandlerThread:2902196 [handler.py:handle_request():146] handle_request: status_report
+2024-04-19 12:39:07,965 INFO    Thread-12 :2902196 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240419_122508-spabbrba/files/output.log
+2024-04-19 12:39:08,805 DEBUG   SenderThread:2902196 [sender.py:send():379] send: stats
