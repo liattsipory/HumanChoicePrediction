@@ -1,7 +1,7 @@
 # cloning your code from github:
-# git clone https://github.com/eilamshapira/NLP_project.git
+git clone https://github.com/eilamshapira/NLP_project.git
 
-git clone https://github.com/liattsipory/HumanChoicePrediction.git
+#git clone https://github.com/liattsipory/HumanChoicePrediction.git
 python first_try_sweep.py
 
 # Your main sweep:
