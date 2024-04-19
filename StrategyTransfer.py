@@ -67,16 +67,19 @@ parser.add_argument('--personas_group_number', type=int, default=-1, help='Perso
 
 args = parser.parse_args()
 
-main_run = wandb.init(project='Strategy_Transfer_TACL')
+# main_run = wandb.init(project='Strategy_Transfer_TACL')
+main_run = wandb.init(project='NLP2024_PROJECT_207897091_322720103')
 config = wandb.config
 
 config.update(args.__dict__)
 
 meta_features_map = {"features": {"EFs": {"FEATURES_PATH": config["SIMULATION_EFs_PATH"], "REVIEW_DIM": 37},
-                                  "GPT4": {"FEATURES_PATH": "data/GPT4_PCA_36.csv", "REVIEW_DIM": 36},
-                                  "BERT": {"FEATURES_PATH": "data/BERT_PCA_36.csv", "REVIEW_DIM": 36}},
+                                  #"GPT4": {"FEATURES_PATH": "data/GPT4_PCA_36.csv", "REVIEW_DIM": 36},
+                                  #"BERT": {"FEATURES_PATH": "data/BERT_PCA_36.csv", "REVIEW_DIM": 36}
+                                  },
                      "architecture": {"LSTM": {"use_user_vector": True},
-                                      "transformer": {"use_user_vector": False}}
+                                      #"transformer": {"use_user_vector": False}
+                     }
                      }
 
 for meta_feature, meta_feature_map in meta_features_map.items():

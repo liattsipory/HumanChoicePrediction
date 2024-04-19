@@ -24,7 +24,7 @@ sweep_config_1 = {
         "seed": {"values": list(range(1, 6))},
         "online_simulation_factor": {"values": [0, 4]},
         "features": {"values": ["EFs", "GPT4", "BERT"]},
-        #"basic_nature": {"values": [18,19,20]},
+        "basic_nature": {"values": [18,19,20]},
     },
     "command": command
 }
