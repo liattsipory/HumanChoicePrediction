@@ -1,10 +1,6 @@
 import wandb
 YOUR_WANDB_USERNAME = "noa7566"
-<<<<<<< HEAD:RunningScripts/final_sweep_YOUR_UID.py
 project = "NLP2024_PROJECT_YOUR_UID"
-=======
-project = "NLP2024_PROJECT_207897091_322720103"
->>>>>>> 3c771de1e42ce9267a93ffc83ebc30795cba6694:RunningScripts/first_try_sweep.py
 
 command = [
         "${ENVIRONMENT_VARIABLE}",
@@ -27,11 +23,7 @@ sweep_config_1 = {
         "seed": {"values": list(range(1, 6))},
         "online_simulation_factor": {"values": [0, 4]},
         "features": {"values": ["EFs", "GPT4", "BERT"]},
-<<<<<<< HEAD:RunningScripts/final_sweep_YOUR_UID.py
         #"basic_nature": {"values": [18,19,20]},
-=======
-        "basic_nature": {"values": [18,19,20]},
->>>>>>> 3c771de1e42ce9267a93ffc83ebc30795cba6694:RunningScripts/first_try_sweep.py
     },
     "command": command
 }
