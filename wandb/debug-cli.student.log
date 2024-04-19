@@ -1,0 +1,32 @@
+2024-04-19 13:30:19 INFO Running runs: []
+2024-04-19 13:30:19 INFO Agent received command: run
+2024-04-19 13:30:19 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 1
+2024-04-19 13:30:19 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=1
+2024-04-19 13:30:24 INFO Running runs: ['dng4af9j']
+2024-04-19 13:30:24 INFO Cleaning up finished run: dng4af9j
+2024-04-19 13:30:24 INFO Agent received command: run
+2024-04-19 13:30:24 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 2
+2024-04-19 13:30:24 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=2
+2024-04-19 13:30:29 INFO Running runs: ['c7ofsgh8']
+2024-04-19 13:30:29 INFO Cleaning up finished run: c7ofsgh8
+2024-04-19 13:30:30 INFO Agent received command: run
+2024-04-19 13:30:30 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 17
+	features: EFs
+	online_simulation_factor: 0
+	seed: 3
+2024-04-19 13:30:30 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=17 --features=EFs --online_simulation_factor=0 --seed=3
+2024-04-19 13:30:35 INFO Running runs: ['cch6e7dj']
+2024-04-19 13:30:35 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2024-04-19 13:30:35 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true

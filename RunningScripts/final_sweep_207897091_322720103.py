@@ -20,7 +20,7 @@ sweep_config_1 = {
     "parameters": {
         "ENV_HPT_mode": {"values": [True]},
         "seed": {"values": list(range(1, 6))},
-        "online_simulation_factor": {"values": [0, 4]},
+        #"online_simulation_factor": {"values": [0, 4]},
         "features": {"values": ["EFs", "GPT4", "BERT"]},
         "basic_nature": {"values": [17,18,19,20,21,22,23,24]},
     },
@@ -30,23 +30,23 @@ sweep_config_1 = {
 sweep_config_0 = {
     "name": "initialize",
     "method": "grid",
-    # "metric": {
-    #     "goal": "maximize",
-    #     "name": "AUC.test.max"
-    # },
+    "metric": {
+        "goal": "maximize",
+        "name": "AUC.test.max"
+    },
     "parameters": {
         "ENV_HPT_mode": {"values": [True]},
         "seed": {"values": list(range(1, 6))},
-        "online_simulation_factor": {"values": [0, 4]},
+        #"online_simulation_factor": {"values": [0, 4]},
         "features": {"values": ["EFs", "GPT4", "BERT"]},
     },
     "command": command
 }
 # Initialize a new sweep
-# sweep_id = wandb.sweep(sweep=sweep_config_1, project=project)
-# print("run this line to run your agent in a screen:")
-# print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
-
-sweep_id = wandb.sweep(sweep=sweep_config_0, project=project)
+sweep_id = wandb.sweep(sweep=sweep_config_1, project=project)
 print("run this line to run your agent in a screen:")
 print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
+
+# sweep_id = wandb.sweep(sweep=sweep_config_0, project=project)
+# print("run this line to run your agent in a screen:")
+# print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
