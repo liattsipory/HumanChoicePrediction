@@ -162,3 +162,12 @@
 	seed: 1
 2024-04-19 17:08:54 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --features=EFs --online_simulation_factor=0 --seed=1
 2024-04-19 17:08:59 INFO Running runs: ['muesl2sx']
+2024-04-19 17:17:29 INFO Running runs: []
+2024-04-19 17:17:29 INFO Agent received command: run
+2024-04-19 17:17:29 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	seed: 1
+2024-04-19 17:17:29 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --seed=1
+2024-04-19 17:17:34 INFO Running runs: ['fhu201at']
+2024-04-19 17:18:30 ERROR 404 response executing GraphQL.
+2024-04-19 17:18:30 ERROR {"errors":[{"message":"could not find agent g83xsiyg during agentHeartbeat","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}

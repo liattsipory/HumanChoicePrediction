@@ -33,6 +33,7 @@ sweep_config_0 = {
     "parameters": {
         "ENV_HPT_mode": {"values": [True]},
         "seed": {"values": list(range(1, 6))},
+        "basic_nature": {"values": [17,18,19,20,21,22,23,24]},
     },
     "command": command
 }
@@ -46,7 +47,6 @@ sweep_config = {
     "parameters": {
         "ENV_HPT_mode": {"values": [False]},
         "seed": {"values": list(range(1, 6))},
-        "online_simulation_factor": {"values": [0, 4]},
     },
     "command": command
 }
