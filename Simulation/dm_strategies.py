@@ -119,12 +119,12 @@ def LLM_based(is_stochastic):
     if is_stochastic:
         def func(information):
             review_llm_score = proba2go[information["review_id"]]
-            return int(review_llm_score >= 0.5)
+            return int(np.random.rand() <= review_llm_score)
         return func
     else:
         def func(information):
             review_llm_score = proba2go[information["review_id"]]
-            return int(np.random.rand() <= review_llm_score)
+            return int(review_llm_score >= 0.5)
         return func
 
 
@@ -141,7 +141,7 @@ def HRQ_plus_LLM(history_window, quality_threshold):
             else:
                 return 0
         else:
-            return LLM_based(False)
+            return LLM_based(True)
     return func
 
 
@@ -178,7 +178,7 @@ def HRQ_relaxed_1_plus_LLM(history_window, quality_threshold):
             else:
                 return 0
         else:
-            return LLM_based(False)
+            return LLM_based(True)
     return func
 
 
@@ -212,7 +212,7 @@ def HRQ_relaxed_2_plus_LLM(history_window, quality_threshold):
             else:
                 return 0
         else:
-            return LLM_based(False)
+            return LLM_based(True)
     return func
 
 
@@ -224,12 +224,12 @@ def HRQ_plus_LLM_plus_random_simultanly(history_window, quality_threshold):
                                      or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
                                     information["previous_rounds"][
                                     -history_window:]])) == 1:  # cooperation from *result's* perspective
-            if information["bot_message"] >= quality_threshold and LLM_based(False):  # good hotel from user's perspective
+            if information["bot_message"] >= quality_threshold and LLM_based(True):  # good hotel from user's perspective
                 return 1
-            elif information["bot_message"] <= quality_threshold and not LLM_based(False):
+            elif information["bot_message"] <= quality_threshold and not LLM_based(True):
                 return 0
             else:
                 return np.random.randint(2)
         else:
-            return LLM_based(False)
+            return LLM_based(True)
     return func
