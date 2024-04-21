@@ -1,0 +1,69 @@
+2024-04-21 09:47:26,680 INFO    StreamThr :3288749 [internal.py:wandb_internal():86] W&B internal server running at pid: 3288749, started at: 2024-04-21 09:47:26.679582
+2024-04-21 09:47:26,682 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: status
+2024-04-21 09:47:26,683 INFO    WriterThread:3288749 [datastore.py:open_for_write():87] open: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/run-sapr2kmz.wandb
+2024-04-21 09:47:26,685 DEBUG   SenderThread:3288749 [sender.py:send():379] send: header
+2024-04-21 09:47:26,701 DEBUG   SenderThread:3288749 [sender.py:send():379] send: run
+2024-04-21 09:47:27,006 INFO    SenderThread:3288749 [dir_watcher.py:__init__():211] watching files in: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files
+2024-04-21 09:47:27,007 INFO    SenderThread:3288749 [sender.py:_start_run_threads():1124] run started: sapr2kmz with start time 1713682046.679733
+2024-04-21 09:47:27,017 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: check_version
+2024-04-21 09:47:27,017 DEBUG   SenderThread:3288749 [sender.py:send_request():406] send_request: check_version
+2024-04-21 09:47:27,100 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: run_start
+2024-04-21 09:47:27,103 DEBUG   HandlerThread:3288749 [system_info.py:__init__():26] System info init
+2024-04-21 09:47:27,103 DEBUG   HandlerThread:3288749 [system_info.py:__init__():41] System info init done
+2024-04-21 09:47:27,103 INFO    HandlerThread:3288749 [system_monitor.py:start():194] Starting system monitor
+2024-04-21 09:47:27,104 INFO    SystemMonitor:3288749 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-04-21 09:47:27,104 INFO    HandlerThread:3288749 [system_monitor.py:probe():214] Collecting system info
+2024-04-21 09:47:27,105 INFO    SystemMonitor:3288749 [interfaces.py:start():190] Started cpu monitoring
+2024-04-21 09:47:27,105 INFO    SystemMonitor:3288749 [interfaces.py:start():190] Started disk monitoring
+2024-04-21 09:47:27,106 INFO    SystemMonitor:3288749 [interfaces.py:start():190] Started gpu monitoring
+2024-04-21 09:47:27,107 INFO    SystemMonitor:3288749 [interfaces.py:start():190] Started memory monitoring
+2024-04-21 09:47:27,108 INFO    SystemMonitor:3288749 [interfaces.py:start():190] Started network monitoring
+2024-04-21 09:47:27,117 DEBUG   HandlerThread:3288749 [system_info.py:probe():150] Probing system
+2024-04-21 09:47:27,123 DEBUG   HandlerThread:3288749 [system_info.py:_probe_git():135] Probing git
+2024-04-21 09:47:27,136 DEBUG   HandlerThread:3288749 [system_info.py:_probe_git():143] Probing git done
+2024-04-21 09:47:27,136 DEBUG   HandlerThread:3288749 [system_info.py:probe():198] Probing system done
+2024-04-21 09:47:27,136 DEBUG   HandlerThread:3288749 [system_monitor.py:probe():223] {'os': 'Linux-5.15.0-1060-azure-x86_64-with-glibc2.17', 'python': '3.8.19', 'heartbeatAt': '2024-04-21T06:47:27.117548', 'startedAt': '2024-04-21T06:47:26.673582', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/home/student/HumanChoicePrediction/HumanChoicePrediction-1/StrategyTransfer.py', 'codePathLocal': 'StrategyTransfer.py', 'codePath': 'StrategyTransfer.py', 'git': {'remote': 'https://github.com/liattsipory/HumanChoicePrediction.git', 'commit': '5c28538cf54f7b94c19f551359348105dad22c1c'}, 'email': 'noa-levi@campus.technion.ac.il', 'root': '/home/student/HumanChoicePrediction/HumanChoicePrediction-1', 'host': 'nlpgpu2023w-0001', 'username': 'student', 'executable': '/anaconda/envs/final_project_env/bin/python', 'cpu_count': 6, 'cpu_count_logical': 12, 'cpu_freq': {'current': 2593.9919999999997, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 145.1909637451172, 'used': 123.47153091430664}}, 'gpu': 'Tesla M60', 'gpu_count': 1, 'gpu_devices': [{'name': 'Tesla M60', 'memory_total': 8524136448}], 'memory': {'total': 110.04447174072266}}
+2024-04-21 09:47:27,136 INFO    HandlerThread:3288749 [system_monitor.py:probe():224] Finished collecting system info
+2024-04-21 09:47:27,136 INFO    HandlerThread:3288749 [system_monitor.py:probe():227] Publishing system info
+2024-04-21 09:47:27,136 DEBUG   HandlerThread:3288749 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-04-21 09:47:28,008 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/conda-environment.yaml
+2024-04-21 09:47:29,559 DEBUG   HandlerThread:3288749 [system_info.py:_save_conda():222] Saving conda packages done
+2024-04-21 09:47:29,560 INFO    HandlerThread:3288749 [system_monitor.py:probe():229] Finished publishing system info
+2024-04-21 09:47:29,563 DEBUG   SenderThread:3288749 [sender.py:send():379] send: files
+2024-04-21 09:47:29,563 INFO    SenderThread:3288749 [sender.py:_save_file():1390] saving file wandb-metadata.json with policy now
+2024-04-21 09:47:29,648 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: python_packages
+2024-04-21 09:47:29,649 DEBUG   SenderThread:3288749 [sender.py:send_request():406] send_request: python_packages
+2024-04-21 09:47:29,650 DEBUG   SenderThread:3288749 [sender.py:send():379] send: telemetry
+2024-04-21 09:47:29,650 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-21 09:47:29,651 DEBUG   SenderThread:3288749 [sender.py:send_request():406] send_request: stop_status
+2024-04-21 09:47:29,653 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-21 09:47:29,804 DEBUG   SenderThread:3288749 [sender.py:send():379] send: config
+2024-04-21 09:47:29,805 DEBUG   SenderThread:3288749 [sender.py:send():379] send: telemetry
+2024-04-21 09:47:29,805 DEBUG   SenderThread:3288749 [sender.py:send():379] send: config
+2024-04-21 09:47:29,805 DEBUG   SenderThread:3288749 [sender.py:send():379] send: config
+2024-04-21 09:47:29,805 DEBUG   SenderThread:3288749 [sender.py:send():379] send: config
+2024-04-21 09:47:29,805 DEBUG   SenderThread:3288749 [sender.py:send():379] send: config
+2024-04-21 09:47:29,805 DEBUG   SenderThread:3288749 [sender.py:send():379] send: config
+2024-04-21 09:47:29,805 DEBUG   SenderThread:3288749 [sender.py:send():379] send: config
+2024-04-21 09:47:29,909 INFO    wandb-upload_0:3288749 [upload_job.py:push():131] Uploaded file /tmp/tmp_5dk5jiswandb/ovkbrj5s-wandb-metadata.json
+2024-04-21 09:47:30,008 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/conda-environment.yaml
+2024-04-21 09:47:30,008 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/output.log
+2024-04-21 09:47:30,009 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/wandb-metadata.json
+2024-04-21 09:47:30,009 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/requirements.txt
+2024-04-21 09:47:31,807 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: status_report
+2024-04-21 09:47:34,009 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/output.log
+2024-04-21 09:47:36,989 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: status_report
+2024-04-21 09:47:40,011 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/output.log
+2024-04-21 09:47:42,052 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: status_report
+2024-04-21 09:47:44,013 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/output.log
+2024-04-21 09:47:44,657 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-21 09:47:44,658 DEBUG   SenderThread:3288749 [sender.py:send_request():406] send_request: stop_status
+2024-04-21 09:47:44,666 DEBUG   HandlerThread:3288749 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-21 09:47:44,873 WARNING FileStreamThread:3288749 [file_stream.py:request_with_retry():687] requests_with_retry encountered retryable exception: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/files/noa-levi/NLP2024_PROJECT_207897091_322720103/sapr2kmz/file_stream. func: functools.partial(<bound method Session.post of <requests.sessions.Session object at 0x7fb22ed3d100>>, timeout=180.0), args: ('https://api.wandb.ai/files/noa-levi/NLP2024_PROJECT_207897091_322720103/sapr2kmz/file_stream',), kwargs: {'json': {'files': {'output.log': {'offset': 1, 'content': ['2024-04-21T06:47:39.819119 ################\n', '2024-04-21T06:47:39.819119 # Epoch 0\n', '2024-04-21T06:47:39.819119 ################\n']}}, 'dropped': 0}}
+2024-04-21 09:47:45,118 INFO    cpu       :3288749 [interfaces.py:monitor():140] Process cpu has exited.
+2024-04-21 09:47:45,119 DEBUG   SystemMonitor:3288749 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-04-21 09:47:45,119 DEBUG   SystemMonitor:3288749 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-04-21 09:47:45,119 DEBUG   SystemMonitor:3288749 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-04-21 09:47:45,119 INFO    memory    :3288749 [interfaces.py:monitor():140] Process proc.memory.rssMB has exited.
+2024-04-21 09:47:46,014 INFO    Thread-12 :3288749 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094726-sapr2kmz/files/output.log
+2024-04-21 09:47:48,066 INFO    MainThread:3288749 [internal.py:handle_exit():76] Internal process exited

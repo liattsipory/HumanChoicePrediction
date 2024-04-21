@@ -110,7 +110,7 @@ def topic_based(positive_topics, negative_topics, quality_threshold):
             return 0
     return func
 
-
+    
 def LLM_based(is_stochastic):
     with open(f"data/baseline_proba2go.txt", 'r') as file:
         proba2go = json.load(file)
@@ -129,7 +129,7 @@ def LLM_based(is_stochastic):
 
 
 def HRQ_plus_LLM(history_window, quality_threshold):
-    def choose_func(information):
+    def func(information):
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
                 or np.min(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
@@ -141,12 +141,21 @@ def HRQ_plus_LLM(history_window, quality_threshold):
             else:
                 return 0
         else:
-            return LLM_based(True)
-    return choose_func
+            with open(f"data/baseline_proba2go.txt", 'r') as file:
+                proba2go = json.load(file)
+                proba2go = {int(k): v for k, v in proba2go.items()}
+
+            review_llm_score = proba2go[information["review_id"]]
+            LLM_stochastic_result =  int(np.random.rand() <= review_llm_score)
+
+            #return LLM_based(True)
+            return LLM_stochastic_result
+    return func
 
 
 def HRQ_relaxed_1(history_window, quality_threshold):
-    def choose_func(information):
+    def func(information):
+
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
                 or np.average(np.array([(r[BOT_ACTION] - r[REVIEWS].mean()) for r in
@@ -158,15 +167,11 @@ def HRQ_relaxed_1(history_window, quality_threshold):
                 return 0
         else:
             return 0
-    return choose_func
+    return func
 
 
 def HRQ_relaxed_1_plus_LLM(history_window, quality_threshold):
-    def choose_func(information):
-        with open(f"data/baseline_proba2go.txt", 'r') as file:
-            proba2go = json.load(file)
-            proba2go = {int(k): v for k, v in proba2go.items()}
-        review_llm_score = proba2go[information["review_id"]]
+    def func(information):
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
                 or np.average(np.array([(r[BOT_ACTION] - r[REVIEWS].mean()) for r in
@@ -176,19 +181,21 @@ def HRQ_relaxed_1_plus_LLM(history_window, quality_threshold):
                 return 1
             else:
                 return 0
-        with open(f"data/baseline_proba2go.txt", 'r') as file:
-            proba2go = json.load(file)
-            proba2go = {int(k): v for k, v in proba2go.items()}
+        else:
+            with open(f"data/baseline_proba2go.txt", 'r') as file:
+                proba2go = json.load(file)
+                proba2go = {int(k): v for k, v in proba2go.items()}
 
-        def func(information):
             review_llm_score = proba2go[information["review_id"]]
-            return int(np.random.rand() <= review_llm_score)
-        return func
-    return choose_func
+            LLM_stochastic_result =  int(np.random.rand() <= review_llm_score)
+
+            #return LLM_based(True)
+            return LLM_stochastic_result
+    return func
 
 
 def HRQ_relaxed_2(history_window, quality_threshold):
-    def choose_func(information):
+    def func(information):
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
                 or np.average(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
@@ -201,11 +208,11 @@ def HRQ_relaxed_2(history_window, quality_threshold):
                 return 0
         else:
             return 0
-    return choose_func
+    return func
 
 
 def HRQ_relaxed_2_plus_LLM(history_window, quality_threshold):
-    def choose_func(information):
+    def func(information):
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
                 or np.average(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
@@ -216,31 +223,41 @@ def HRQ_relaxed_2_plus_LLM(history_window, quality_threshold):
                 return 1
             else:
                 return 0
-        with open(f"data/baseline_proba2go.txt", 'r') as file:
-            proba2go = json.load(file)
-            proba2go = {int(k): v for k, v in proba2go.items()}
+        else:
+            with open(f"data/baseline_proba2go.txt", 'r') as file:
+                proba2go = json.load(file)
+                proba2go = {int(k): v for k, v in proba2go.items()}
 
-        def func(information):
             review_llm_score = proba2go[information["review_id"]]
-            return int(np.random.rand() <= review_llm_score)
-        return func
-    return choose_func
+            LLM_stochastic_result =  int(np.random.rand() <= review_llm_score)
+
+            #return LLM_based(True)
+            return LLM_stochastic_result
+    return func
 
 
 def HRQ_plus_LLM_plus_random_simultanly(history_window, quality_threshold):
-    def choose_func(information):
+    def func(information):
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
                 or np.min(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
                                      or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
                                     information["previous_rounds"][
                                     -history_window:]])) == 1:  # cooperation from *result's* perspective
-            if information["bot_message"] >= quality_threshold and LLM_based(True):  # good hotel from user's perspective
+            with open(f"data/baseline_proba2go.txt", 'r') as file:
+                proba2go = json.load(file)
+                proba2go = {int(k): v for k, v in proba2go.items()}
+
+            review_llm_score = proba2go[information["review_id"]]
+            LLM_stochastic_result =  int(np.random.rand() <= review_llm_score)
+
+            if information["bot_message"] >= quality_threshold and LLM_stochastic_result:  # good hotel from user's perspective
                 return 1
-            elif information["bot_message"] <= quality_threshold and not LLM_based(True):
+            elif information["bot_message"] <= quality_threshold and not LLM_stochastic_result:
                 return 0
             else:
                 return np.random.randint(2)
         else:
-            return LLM_based(True)
-    return choose_func
+            #return LLM_based(True)
+            return LLM_stochastic_result
+    return func

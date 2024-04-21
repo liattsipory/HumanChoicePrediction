@@ -1,0 +1,11 @@
+2024-04-21 09:47:54,913 INFO    StreamThr :3289103 [internal.py:wandb_internal():86] W&B internal server running at pid: 3289103, started at: 2024-04-21 09:47:54.913263
+2024-04-21 09:47:54,915 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: status
+2024-04-21 09:47:54,917 INFO    WriterThread:3289103 [datastore.py:open_for_write():87] open: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094754-x564r6b2/run-x564r6b2.wandb
+2024-04-21 09:47:54,919 DEBUG   SenderThread:3289103 [sender.py:send():379] send: header
+2024-04-21 09:47:54,932 DEBUG   SenderThread:3289103 [sender.py:send():379] send: run
+2024-04-21 09:47:59,933 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:48:04,935 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:48:09,936 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:48:14,937 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:48:19,938 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:48:24,940 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
