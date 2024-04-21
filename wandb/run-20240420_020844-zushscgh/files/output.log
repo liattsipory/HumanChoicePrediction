@@ -1,0 +1,20 @@
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'ENV_HPT_mode' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'seed' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'basic_nature' was locked by 'sweep' (ignored update).
+Start training the environment...
+################
+# Epoch 0
+################
+Create online-simulation users for this epoch. mean games/user: 64.00:   0%| | 1
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 108, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/environments/environment.py", line 134, in train
+    online_simulation_dataset = OnlineSimulationDataSet(config=self.config)
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 216, in __init__
+    self.new_user()
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 409, in new_user
+    bot_points += user_action
+TypeError: unsupported operand type(s) for +=: 'int' and 'function'

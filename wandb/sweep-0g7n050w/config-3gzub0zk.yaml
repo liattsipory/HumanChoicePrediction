@@ -1,0 +1,8 @@
+wandb_version: 1
+
+ENV_HPT_mode:
+  value: true
+basic_nature:
+  value: 18
+seed:
+  value: 4
