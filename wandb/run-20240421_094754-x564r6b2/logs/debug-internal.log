@@ -9,3 +9,9 @@
 2024-04-21 09:48:14,937 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
 2024-04-21 09:48:19,938 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
 2024-04-21 09:48:24,940 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:48:29,941 DEBUG   HandlerThread:3289103 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:48:35,958 WARNING StreamThr :3289103 [internal.py:is_dead():414] Internal process exiting, parent pid 3289051 disappeared
+2024-04-21 09:48:35,958 ERROR   StreamThr :3289103 [internal.py:wandb_internal():152] Internal process shutdown.
+2024-04-21 09:48:36,923 INFO    MainThread:3289103 [internal.py:handle_exit():76] Internal process exited
+2024-04-21 09:48:36,937 INFO    WriterThread:3289103 [datastore.py:close():296] close: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094754-x564r6b2/run-x564r6b2.wandb
+2024-04-21 09:48:36,942 INFO    HandlerThread:3289103 [handler.py:finish():866] shutting down handler

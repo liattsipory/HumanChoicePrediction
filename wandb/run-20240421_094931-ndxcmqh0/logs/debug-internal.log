@@ -1,0 +1,7 @@
+2024-04-21 09:49:31,209 INFO    StreamThr :3293174 [internal.py:wandb_internal():86] W&B internal server running at pid: 3293174, started at: 2024-04-21 09:49:31.208301
+2024-04-21 09:49:31,210 DEBUG   HandlerThread:3293174 [handler.py:handle_request():146] handle_request: status
+2024-04-21 09:49:31,213 INFO    WriterThread:3293174 [datastore.py:open_for_write():87] open: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240421_094931-ndxcmqh0/run-ndxcmqh0.wandb
+2024-04-21 09:49:31,213 DEBUG   SenderThread:3293174 [sender.py:send():379] send: header
+2024-04-21 09:49:31,227 DEBUG   SenderThread:3293174 [sender.py:send():379] send: run
+2024-04-21 09:49:36,229 DEBUG   HandlerThread:3293174 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-21 09:49:39,213 INFO    MainThread:3293174 [internal.py:handle_exit():76] Internal process exited

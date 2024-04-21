@@ -1,0 +1,108 @@
+{
+    "os": "Linux-5.15.0-1060-azure-x86_64-with-glibc2.17",
+    "python": "3.8.19",
+    "heartbeatAt": "2024-04-21T06:49:56.844659",
+    "startedAt": "2024-04-21T06:49:48.143775",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/StrategyTransfer.py",
+    "codePathLocal": "StrategyTransfer.py",
+    "codePath": "StrategyTransfer.py",
+    "git": {
+        "remote": "https://github.com/liattsipory/HumanChoicePrediction.git",
+        "commit": "c3ca9ca0e49892d3e94d62d357ca6b554cad8ea1"
+    },
+    "email": "noa-levi@campus.technion.ac.il",
+    "root": "/home/student/HumanChoicePrediction/HumanChoicePrediction-1",
+    "host": "nlpgpu2023w-0001",
+    "username": "student",
+    "executable": "/anaconda/envs/final_project_env/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2593.9919999999997,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.992,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 145.1909637451172,
+            "used": 123.4885482788086
+        }
+    },
+    "gpu": "Tesla M60",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla M60",
+            "memory_total": 8524136448
+        }
+    ],
+    "memory": {
+        "total": 110.04447174072266
+    }
+}
