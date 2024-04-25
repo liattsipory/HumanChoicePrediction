@@ -38,7 +38,18 @@ sweep_config_1_no_metric = {
     },
     "command": command
 }
-
+sweep_config_2_no_metric = {
+    "name": "decide between unrelaxed first and last new astrengies",
+    "method": "grid",
+    "parameters": {
+        "ENV_HPT_mode": {"values": [True]},
+        "seed": {"values": list(range(1, 6))},
+        "online_simulation_factor": {"values": [0, 4]},
+        #"features": {"values": ["EFs", "GPT4", "BERT"]},
+        "basic_nature": {"values": [25,26,27,28]},
+    },
+    "command": command
+}
 # sweep_config_0 = {
 #     "name": "initialize",
 #     "method": "grid",
