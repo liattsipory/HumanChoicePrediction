@@ -50,6 +50,18 @@ sweep_config_2_no_metric = {
     },
     "command": command
 }
+sweep_config_3_no_metric_all = {
+    "name": "decide between all new astrengies",
+    "method": "grid",
+    "parameters": {
+        "ENV_HPT_mode": {"values": [True]},
+        "seed": {"values": list(range(1, 6))},
+        "online_simulation_factor": {"values": [0, 4]},
+        #"features": {"values": ["EFs", "GPT4", "BERT"]},
+        "basic_nature": {"values": [17,18,19,20,21,22,23,24,25,26,27,28]},
+    },
+    "command": command
+}
 # sweep_config_0 = {
 #     "name": "initialize",
 #     "method": "grid",
@@ -88,7 +100,7 @@ sweep_config_2_no_metric = {
 # print("run this line to run your agent in a screen:")
 # print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
 
-sweep_id = wandb.sweep(sweep=sweep_config_1, project=project)
+sweep_id = wandb.sweep(sweep=sweep_config_3_no_metric_all, project=project)
 print("run this line to run your agent in a screen:")
 print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
 

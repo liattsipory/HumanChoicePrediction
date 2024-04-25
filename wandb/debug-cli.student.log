@@ -1620,3 +1620,12 @@ requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: 
 	seed: 5
 2024-04-25 11:54:53 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=24 --online_simulation_factor=4 --seed=5
 2024-04-25 11:54:58 INFO Running runs: ['4v5tbzjb']
+2024-04-25 14:57:05 INFO Running runs: []
+2024-04-25 14:57:05 INFO Agent received command: run
+2024-04-25 14:57:05 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	basic_nature: 25
+	online_simulation_factor: 0
+	seed: 1
+2024-04-25 14:57:05 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --basic_nature=25 --online_simulation_factor=0 --seed=1
+2024-04-25 14:57:10 INFO Running runs: ['xnknhilr']
