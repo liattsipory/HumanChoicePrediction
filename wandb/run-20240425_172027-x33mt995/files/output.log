@@ -1,0 +1,25 @@
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'ENV_HPT_mode' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'seed' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'basic_nature' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'online_simulation_factor' was locked by 'sweep' (ignored update).
+Start training the environment...
+################
+# Epoch 0
+################
+Create online-simulation users for this epoch. mean games/user: 49.00:   0%| | 1
+Traceback (most recent call last):
+  File "StrategyTransfer.py", line 108, in <module>
+    env_model = environments.LSTM_env.LSTM_env(env_name, config=config)
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/environments/environment.py", line 38, in __init__
+    self.train()
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/environments/environment.py", line 134, in train
+    online_simulation_dataset = OnlineSimulationDataSet(config=self.config)
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 218, in __init__
+    self.new_user()
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 369, in new_user
+    user_action = self.play_round(bot_message + signal_error, user, previous_rounds,
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/utils/datasets.py", line 279, in play_round
+    user_action = user_strategy_function(information)
+  File "/home/student/HumanChoicePrediction/HumanChoicePrediction-1/Simulation/dm_strategies.py", line 262, in func
+    return LLM_stochastic_result
+UnboundLocalError: local variable 'LLM_stochastic_result' referenced before assignment
