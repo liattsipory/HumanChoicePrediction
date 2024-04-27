@@ -2209,3 +2209,82 @@ accuracy_per_mean_user_and_bot:  0.7826908475155092
 
 
 
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.47: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 7031it [01:40, 70.15it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|███████████████████████████████▉| 1050/1051 [00:26<00:00, 39.33it/s]
+
+
+Test: 263it [00:05, 45.45it/s]
+Create online-simulation users for this epoch. mean games/user: 36.00:   0%| | 2
+proba_accuracy_per_mean_user_and_bot:  0.7091537249395904
+accuracy_per_mean_user_and_bot:  0.7869057363421021
+################
+# Epoch 21
+
+
