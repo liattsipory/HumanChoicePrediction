@@ -1,0 +1,85 @@
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'ENV_HPT_mode' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'seed' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'features' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'architecture' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'online_simulation_factor' was locked by 'sweep' (ignored update).
+Start training the environment...
+################
+# Epoch 0
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|███████████████████████████████▉| 2259/2260 [01:05<00:00, 34.28it/s]
+
+
+
+
+
+
+
+
+Test: 642it [00:15, 40.64it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7500151022429699
+accuracy_per_mean_user_and_bot:  0.818457456571347
+################
+# Epoch 1
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train:  90%|████████████████████████████▊   | 2036/2260 [00:59<00:06, 32.15it/s]

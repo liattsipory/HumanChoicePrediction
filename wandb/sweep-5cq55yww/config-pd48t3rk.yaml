@@ -1,0 +1,10 @@
+wandb_version: 1
+
+ENV_HPT_mode:
+  value: true
+basic_nature:
+  value: 28
+online_simulation_factor:
+  value: 4
+seed:
+  value: 4

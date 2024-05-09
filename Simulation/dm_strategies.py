@@ -238,19 +238,20 @@ def HRQ_relaxed_2_plus_LLM(history_window, quality_threshold):
 
 def HRQ_plus_LLM_plus_random_simultanly(history_window, quality_threshold):
     def func(information):
+        with open(f"data/baseline_proba2go.txt", 'r') as file:
+            proba2go = json.load(file)
+            proba2go = {int(k): v for k, v in proba2go.items()}
+
+        review_llm_score = proba2go[information["review_id"]]
+        LLM_stochastic_result =  int(np.random.rand() <= review_llm_score)
+
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
                 or np.min(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
                                      or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
                                     information["previous_rounds"][
                                     -history_window:]])) == 1:  # cooperation from *result's* perspective
-            with open(f"data/baseline_proba2go.txt", 'r') as file:
-                proba2go = json.load(file)
-                proba2go = {int(k): v for k, v in proba2go.items()}
-
-            review_llm_score = proba2go[information["review_id"]]
-            LLM_stochastic_result =  int(np.random.rand() <= review_llm_score)
-
+           
             if information["bot_message"] >= quality_threshold and LLM_stochastic_result:  # good hotel from user's perspective
                 return 1
             elif information["bot_message"] <= quality_threshold and not LLM_stochastic_result:

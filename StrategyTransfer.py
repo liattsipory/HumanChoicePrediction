@@ -19,7 +19,7 @@ def str2bool(v):
 
 # General Features
 parser.add_argument('--ENV_HPT_mode', type=str2bool, default=False, help='Enable/disable HPT mode')
-parser.add_argument('--seed', type=int, default=12, help='Random seed')
+parser.add_argument('--seed', type=int, default=1, help='Random seed')
 parser.add_argument('--task', choices=["off_policy", "on_policy"], default="off_policy", help='Task')
 parser.add_argument('--ENV_LEARNING_RATE', type=float, default=1e-3, help='Learning rate')
 parser.add_argument('--loss_weight_type', type=str, default="None", help='Loss weight type')
@@ -42,7 +42,7 @@ parser.add_argument('--human_train_size', type=int, default=210, help='Training 
 
 # Online Simulation
 parser.add_argument('--online_sim_type', type=str, default="before_epoch", help='Online simulation type')
-parser.add_argument('--basic_nature', type=int, default=19, help='Basic nature of simulation')
+parser.add_argument('--basic_nature', type=int, default=12, help='Basic nature of simulation')
 parser.add_argument('--online_simulation_factor', type=int, default=4, help='Online simulation factor')
 parser.add_argument('--simulation_bot_per_user', type=int, default=6, help='Simulation bot per user')
 parser.add_argument('--simulation_signal_error', type=float, default=0.3, help='Simulation signal error')

@@ -4531,3 +4531,1044 @@
 2024-04-27 15:46:41,332 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
 2024-04-27 15:46:41,473 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
 2024-04-27 15:46:41,473 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:46:42,773 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:46:43,333 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:45,333 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:47,334 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:47,796 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:46:49,335 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:51,336 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:52,845 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:46:53,336 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:55,337 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:56,317 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:46:56,416 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:46:56,417 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:46:57,338 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:46:57,931 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:46:59,339 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:01,339 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:02,950 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:03,340 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:05,341 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:07,342 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:07,926 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:47:08,058 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:09,342 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:11,324 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:47:11,343 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:11,452 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:47:11,452 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:47:13,064 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:13,344 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:15,344 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:17,345 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:18,082 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:19,346 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:21,346 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:23,093 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:23,347 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:25,348 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:26,343 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:47:26,452 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:47:26,453 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:47:27,348 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:28,172 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:29,349 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:31,350 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:33,244 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:33,350 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:35,351 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:37,352 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:37,927 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:47:38,315 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:39,352 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:41,350 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:47:41,353 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:41,417 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:47:41,418 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:47:43,354 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:43,381 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:45,354 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:47,355 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:48,502 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:49,356 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:51,357 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:53,357 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:53,507 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:55,358 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:56,412 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:47:56,439 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:47:56,440 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:47:57,359 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:47:58,547 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:47:59,360 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:01,361 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:03,362 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:03,588 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:05,362 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:07,363 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:07,927 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:48:08,660 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:09,364 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:11,364 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:11,373 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:48:11,424 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:48:11,424 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:48:13,365 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:13,687 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:15,366 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:17,366 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:18,735 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:19,367 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:21,368 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:23,369 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:23,798 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:25,370 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:26,373 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:48:26,424 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:48:26,425 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:48:27,370 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:28,830 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:29,371 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:31,372 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:33,373 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:33,896 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:35,374 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:37,375 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:37,928 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:48:38,943 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:39,375 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:41,373 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:48:41,376 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:41,413 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:48:41,413 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:48:43,377 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:43,962 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:45,377 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:47,378 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:48,974 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:49,379 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:51,380 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:53,380 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:54,044 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:55,381 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:56,373 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:48:56,413 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:48:56,414 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:48:57,382 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:48:59,114 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:48:59,382 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:01,383 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:03,384 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:04,137 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:05,385 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:07,385 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:07,929 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:49:09,233 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:09,386 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:11,373 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:49:11,387 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:11,413 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:49:11,414 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:49:13,388 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:14,271 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:15,389 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:17,390 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:19,347 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:19,391 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:21,391 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:23,392 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:24,390 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:25,393 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:26,373 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:49:26,432 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:49:26,432 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:49:27,393 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:29,394 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:29,476 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:31,395 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:33,395 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:34,376 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:49:34,404 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:49:34,409 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:49:34,414 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:49:34,495 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:35,396 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:35,397 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:49:37,397 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:37,929 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:49:39,398 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:39,602 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:41,381 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:49:41,398 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:41,413 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:49:41,414 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:49:43,399 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:44,653 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:45,400 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:47,401 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:49,402 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:49,724 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:51,403 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:53,404 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:54,761 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:49:55,404 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:56,383 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:49:56,419 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:49:56,419 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:49:57,405 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:59,406 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:49:59,817 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:00,698 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:50:01,406 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:01,410 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:50:01,412 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:50:01,415 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:50:02,407 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:50:03,412 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:04,856 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:05,409 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:06,394 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: log_artifact
+2024-04-27 15:50:06,395 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: log_artifact
+2024-04-27 15:50:06,414 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:50:06,923 INFO    wandb-upload_0:1410857 [upload_job.py:push():89] Uploaded file /home/student/.local/share/wandb/artifacts/staging/tmp9w9pihz7
+2024-04-27 15:50:07,410 INFO    SenderThread:1410857 [sender.py:send_request_log_artifact():1456] logged artifact rirxzdhn_predictions_epoch_21 - {'id': 'QXJ0aWZhY3Q6ODEyODI1NDY3', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NzQyODYxNA==', 'latestArtifact': None}}
+2024-04-27 15:50:07,410 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:07,411 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:50:07,414 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:50:07,443 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:50:07,930 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:50:08,410 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:50:09,411 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:09,932 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:11,412 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:11,445 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:50:11,516 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:50:11,517 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:50:13,412 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:15,024 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:15,413 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:17,414 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:19,414 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:20,085 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:21,415 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:23,416 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:25,086 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:25,417 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:26,435 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:50:26,437 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:50:26,438 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:50:27,418 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:29,418 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:30,116 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:31,419 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:33,420 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:35,129 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:35,420 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:37,421 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:37,930 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:50:39,422 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:40,194 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:41,419 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:50:41,423 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:41,459 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:50:41,460 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:50:43,423 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:45,226 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:45,424 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:47,425 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:49,426 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:50,320 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:51,427 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:53,427 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:55,342 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:50:55,428 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:56,481 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:50:56,502 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:50:56,502 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:50:57,429 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:50:59,429 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:00,411 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:01,430 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:03,431 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:05,432 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:05,493 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:07,433 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:07,931 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:51:09,433 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:10,501 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:11,434 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:11,485 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:51:11,485 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:51:11,495 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:51:13,435 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:15,435 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:15,552 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:17,436 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:19,437 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:20,598 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:21,437 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:23,438 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:25,439 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:25,614 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:26,447 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:51:26,502 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:51:26,502 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:51:27,440 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:29,440 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:30,641 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:31,441 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:33,442 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:35,442 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:35,673 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:37,443 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:37,932 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:51:39,444 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:40,716 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:41,424 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:51:41,445 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:41,528 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:51:41,528 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:51:43,445 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:45,446 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:45,824 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:47,447 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:49,448 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:50,877 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:51,449 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:53,450 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:55,450 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:55,952 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:51:56,428 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:51:56,484 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:51:56,485 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:51:57,451 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:51:59,452 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:01,030 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:01,452 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:03,453 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:05,454 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:06,090 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:07,455 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:07,932 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:52:09,456 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:11,194 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:11,425 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:52:11,457 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:11,484 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:52:11,485 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:52:13,457 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:15,458 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:16,274 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:17,459 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:19,460 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:21,365 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:21,461 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:23,461 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:25,462 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:26,405 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:26,426 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:52:26,484 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:52:26,485 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:52:27,463 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:29,463 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:31,436 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:31,464 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:33,465 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:35,466 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:36,530 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:37,466 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:37,933 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:52:39,467 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:41,429 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:52:41,468 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:41,504 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:52:41,504 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:52:41,606 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:43,469 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:45,469 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:46,682 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:47,470 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:49,471 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:51,472 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:51,703 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:53,472 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:55,473 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:56,426 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:52:56,492 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:52:56,493 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:52:56,797 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:52:57,474 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:52:59,474 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:01,475 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:01,856 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:03,476 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:05,477 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:05,544 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:53:05,582 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:53:05,585 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:53:05,588 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:53:06,477 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:53:06,938 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:07,478 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:07,934 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:53:09,478 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:11,427 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:53:11,479 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:11,485 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:53:11,485 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:53:12,015 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:13,480 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:15,481 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:17,108 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:17,481 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:19,482 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:21,483 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:22,179 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:23,484 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:25,484 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:26,435 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:53:26,485 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:53:26,485 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:53:27,226 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:27,485 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:29,486 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:31,487 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:31,839 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:53:31,867 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:53:31,872 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:53:31,877 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:53:32,334 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:32,487 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:53:33,487 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:35,488 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:37,406 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:37,489 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:37,627 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: log_artifact
+2024-04-27 15:53:37,627 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: log_artifact
+2024-04-27 15:53:37,648 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:53:38,295 INFO    wandb-upload_0:1410857 [upload_job.py:push():89] Uploaded file /home/student/.local/share/wandb/artifacts/staging/tmp8i3pxozd
+2024-04-27 15:53:38,840 INFO    SenderThread:1410857 [sender.py:send_request_log_artifact():1456] logged artifact rirxzdhn_predictions_epoch_22 - {'id': 'QXJ0aWZhY3Q6ODEyODI3ODc3', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NzQyOTY4Mg==', 'latestArtifact': None}}
+2024-04-27 15:53:38,840 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:53:38,843 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:53:38,846 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:53:38,846 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:53:39,490 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:39,490 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:53:41,434 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:53:41,492 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:41,500 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:53:41,501 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:53:42,481 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:43,493 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:45,494 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:47,494 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:47,534 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:49,495 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:51,495 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:52,550 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:53,496 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:55,497 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:56,436 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:53:56,504 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:53:56,504 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:53:57,497 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:53:57,628 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:53:59,498 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:01,499 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:02,629 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:03,500 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:05,501 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:07,502 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:07,641 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:07,936 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:54:09,502 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:11,473 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:54:11,503 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:11,608 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:54:11,609 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:54:12,719 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:13,504 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:15,505 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:17,505 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:17,773 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:19,506 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:21,507 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:22,801 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:23,508 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:25,509 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:26,443 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:54:26,540 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:54:26,540 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:54:27,510 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:27,821 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:29,511 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:31,512 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:32,847 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:33,513 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:35,514 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:37,514 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:37,849 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:37,936 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:54:39,515 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:41,464 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:54:41,516 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:41,552 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:54:41,552 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:54:42,875 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:43,516 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:45,517 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:47,518 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:48,003 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:49,519 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:51,519 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:53,003 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:53,520 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:55,521 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:56,450 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:54:56,555 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:54:56,556 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:54:57,523 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:54:58,043 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:54:59,524 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:01,525 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:03,146 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:03,525 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:05,526 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:07,527 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:07,937 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:55:08,152 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:09,527 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:11,448 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:55:11,528 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:11,545 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:55:11,546 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:55:13,199 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:13,529 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:15,530 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:17,531 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:18,211 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:19,532 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:21,532 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:23,257 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:23,533 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:25,534 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:26,449 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:55:26,545 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:55:26,545 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:55:27,534 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:28,319 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:29,535 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:31,536 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:33,354 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:33,536 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:35,537 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:37,538 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:37,938 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:55:38,411 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:39,539 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:41,451 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:55:41,540 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:41,543 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:55:41,543 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:55:43,437 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:43,541 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:45,542 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:47,542 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:48,485 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:49,543 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:51,544 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:53,544 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:53,558 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:55,545 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:56,448 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:55:56,568 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:55:56,569 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:55:57,546 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:55:58,649 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:55:59,546 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:01,547 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:03,548 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:03,700 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:05,549 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:07,550 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:07,939 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:56:08,793 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:09,551 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:11,450 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:56:11,543 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:56:11,543 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:56:11,552 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:13,553 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:13,835 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:15,553 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:17,554 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:18,878 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:19,555 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:21,556 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:23,557 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:23,906 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:25,557 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:26,449 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:56:26,543 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:56:26,544 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:56:27,558 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:28,936 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:29,559 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:31,560 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:33,560 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:34,021 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:35,561 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:35,963 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:56:35,994 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:56:35,996 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:56:36,000 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:56:36,561 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:56:37,562 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:37,939 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:56:39,051 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:39,563 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:41,459 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:56:41,543 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:56:41,544 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:56:41,564 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:43,565 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:44,083 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:45,566 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:47,567 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:49,126 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:49,567 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:51,568 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:53,569 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:54,236 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:55,569 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:56,459 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:56:56,543 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:56:56,544 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:56:57,571 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:56:59,238 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:56:59,571 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:01,572 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:03,573 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:03,595 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:57:03,617 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:57:03,620 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:57:03,623 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:57:04,345 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:04,573 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:57:05,574 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:07,574 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:07,941 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:57:09,420 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:09,575 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:09,673 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: log_artifact
+2024-04-27 15:57:09,673 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: log_artifact
+2024-04-27 15:57:09,693 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 15:57:10,208 INFO    wandb-upload_0:1410857 [upload_job.py:push():89] Uploaded file /home/student/.local/share/wandb/artifacts/staging/tmpso9w2s61
+2024-04-27 15:57:10,793 INFO    SenderThread:1410857 [sender.py:send_request_log_artifact():1456] logged artifact rirxzdhn_predictions_epoch_23 - {'id': 'QXJ0aWZhY3Q6ODEyODMwMDkx', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NzQzMDc5Ng==', 'latestArtifact': None}}
+2024-04-27 15:57:10,794 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 15:57:10,796 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 15:57:10,799 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 15:57:11,478 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:57:11,569 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:57:11,569 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:57:11,576 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:11,576 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 15:57:13,577 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:14,444 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:15,578 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:17,578 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:19,501 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:19,579 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:21,580 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:23,581 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:24,570 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:25,582 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:26,473 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:57:26,599 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:57:26,599 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:57:27,583 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:29,584 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:29,644 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:31,585 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:33,586 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:34,698 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:35,587 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:37,587 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:37,942 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:57:39,588 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:39,702 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:41,504 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:57:41,589 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:41,620 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:57:41,621 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:57:43,590 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:44,754 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:45,591 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:47,591 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:49,592 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:49,801 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:51,593 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:53,594 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:54,861 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:57:55,595 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:56,486 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:57:56,624 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:57:56,625 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:57:57,595 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:59,596 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:57:59,963 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:01,597 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:03,598 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:05,050 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:05,600 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:07,600 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:07,942 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:58:09,601 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:10,061 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:11,530 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:58:11,602 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:11,609 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:58:11,610 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:58:13,603 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:15,077 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:15,603 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:17,604 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:19,605 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:20,110 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:21,605 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:23,606 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:25,123 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:25,607 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:26,488 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:58:26,616 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:58:26,616 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:58:27,607 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:29,608 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:30,250 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:31,609 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:33,609 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:35,348 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:35,610 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:37,611 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:37,943 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:58:39,612 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:40,379 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:41,485 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:58:41,612 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:41,616 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:58:41,617 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:58:43,613 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:45,465 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:45,614 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:47,614 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:49,615 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:50,559 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:51,616 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:53,617 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:55,618 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:55,661 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:58:56,486 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:58:56,614 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:58:56,614 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:58:57,620 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:58:59,620 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:00,709 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:01,621 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:03,622 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:05,623 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:05,727 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:07,623 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:07,944 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:59:09,624 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:10,803 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:11,486 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:59:11,617 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:59:11,617 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:59:11,625 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:13,625 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:15,626 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:15,856 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:17,627 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:19,628 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:20,881 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:21,628 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:23,629 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:25,630 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:25,960 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:26,486 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:59:26,615 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:59:26,616 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:59:27,630 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:29,631 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:31,024 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:31,632 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:33,633 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:35,633 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:36,081 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:37,634 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:37,945 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 15:59:39,635 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:41,151 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:41,486 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:59:41,616 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:59:41,616 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:59:41,635 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:43,636 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:45,636 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:46,230 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:47,637 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:49,638 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:51,264 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:51,638 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:53,639 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:55,640 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:56,344 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 15:59:56,489 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 15:59:56,615 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 15:59:56,616 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 15:59:57,640 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 15:59:59,641 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:01,428 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:01,642 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:03,642 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:05,643 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:06,530 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:07,644 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:07,946 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 16:00:09,645 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:10,463 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 16:00:10,491 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 16:00:10,495 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 16:00:10,499 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 16:00:10,646 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 16:00:11,486 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 16:00:11,568 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:11,623 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 16:00:11,624 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 16:00:11,646 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:13,647 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:15,647 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:16,655 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:17,648 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:19,649 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:21,650 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:21,767 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:23,650 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:25,651 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:26,491 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 16:00:26,699 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 16:00:26,699 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 16:00:26,783 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:27,652 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:29,652 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:31,653 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:31,961 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:33,654 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:35,655 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:36,333 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 16:00:36,355 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 16:00:36,358 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 16:00:36,361 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 16:00:36,655 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 16:00:36,986 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:37,655 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:37,947 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 16:00:39,656 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:41,491 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 16:00:41,657 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:41,689 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-27 16:00:41,689 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: stop_status
+2024-04-27 16:00:41,961 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: log_artifact
+2024-04-27 16:00:41,962 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: log_artifact
+2024-04-27 16:00:41,981 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: partial_history
+2024-04-27 16:00:42,544 INFO    wandb-upload_0:1410857 [upload_job.py:push():89] Uploaded file /home/student/.local/share/wandb/artifacts/staging/tmpt5s2n03f
+2024-04-27 16:00:43,023 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:43,068 INFO    SenderThread:1410857 [sender.py:send_request_log_artifact():1456] logged artifact rirxzdhn_predictions_epoch_24 - {'id': 'QXJ0aWZhY3Q6ODEyODMyMDAy', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjE2NzQzMTY1Mg==', 'latestArtifact': None}}
+2024-04-27 16:00:43,068 DEBUG   SenderThread:1410857 [sender.py:send():379] send: history
+2024-04-27 16:00:43,071 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: summary_record
+2024-04-27 16:00:43,071 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:43,075 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 16:00:43,075 DEBUG   SenderThread:1410857 [sender.py:send():379] send: exit
+2024-04-27 16:00:43,075 INFO    SenderThread:1410857 [sender.py:send_exit():586] handling exit code: 0
+2024-04-27 16:00:43,075 INFO    SenderThread:1410857 [sender.py:send_exit():588] handling runtime: 5224
+2024-04-27 16:00:43,076 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 16:00:43,077 INFO    SenderThread:1410857 [sender.py:send_exit():594] send defer
+2024-04-27 16:00:43,077 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:43,077 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,077 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 0
+2024-04-27 16:00:43,077 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,078 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 0
+2024-04-27 16:00:43,078 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 1
+2024-04-27 16:00:43,078 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,078 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 1
+2024-04-27 16:00:43,078 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,078 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 1
+2024-04-27 16:00:43,078 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 2
+2024-04-27 16:00:43,078 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,078 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 2
+2024-04-27 16:00:43,079 INFO    HandlerThread:1410857 [system_monitor.py:finish():203] Stopping system monitor
+2024-04-27 16:00:43,079 DEBUG   SystemMonitor:1410857 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-04-27 16:00:43,079 DEBUG   SystemMonitor:1410857 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-04-27 16:00:43,080 INFO    HandlerThread:1410857 [interfaces.py:finish():202] Joined cpu monitor
+2024-04-27 16:00:43,080 INFO    HandlerThread:1410857 [interfaces.py:finish():202] Joined disk monitor
+2024-04-27 16:00:43,127 INFO    HandlerThread:1410857 [interfaces.py:finish():202] Joined gpu monitor
+2024-04-27 16:00:43,128 INFO    HandlerThread:1410857 [interfaces.py:finish():202] Joined memory monitor
+2024-04-27 16:00:43,128 INFO    HandlerThread:1410857 [interfaces.py:finish():202] Joined network monitor
+2024-04-27 16:00:43,129 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,129 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 2
+2024-04-27 16:00:43,129 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 3
+2024-04-27 16:00:43,129 DEBUG   SenderThread:1410857 [sender.py:send():379] send: stats
+2024-04-27 16:00:43,129 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,129 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 3
+2024-04-27 16:00:43,130 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,130 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 3
+2024-04-27 16:00:43,130 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 4
+2024-04-27 16:00:43,130 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,130 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 4
+2024-04-27 16:00:43,130 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,130 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 4
+2024-04-27 16:00:43,130 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 5
+2024-04-27 16:00:43,131 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,131 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 5
+2024-04-27 16:00:43,148 DEBUG   SenderThread:1410857 [sender.py:send():379] send: summary
+2024-04-27 16:00:43,151 INFO    SenderThread:1410857 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-27 16:00:43,151 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,151 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 5
+2024-04-27 16:00:43,151 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 6
+2024-04-27 16:00:43,152 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,152 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 6
+2024-04-27 16:00:43,152 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,152 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 6
+2024-04-27 16:00:43,152 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 7
+2024-04-27 16:00:43,152 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:43,152 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:43,153 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 7
+2024-04-27 16:00:43,153 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:43,153 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 7
+2024-04-27 16:00:43,658 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:43,659 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 16:00:44,024 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:44,111 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 8
+2024-04-27 16:00:44,112 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:44,112 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:44,112 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 8
+2024-04-27 16:00:44,113 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:44,113 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 8
+2024-04-27 16:00:44,113 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 9
+2024-04-27 16:00:44,113 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:44,113 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 9
+2024-04-27 16:00:44,113 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:44,113 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 9
+2024-04-27 16:00:44,113 INFO    SenderThread:1410857 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-04-27 16:00:44,659 INFO    Thread-12 :1410857 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:44,659 INFO    SenderThread:1410857 [dir_watcher.py:finish():388] scan: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files
+2024-04-27 16:00:44,660 INFO    SenderThread:1410857 [dir_watcher.py:finish():402] scan save: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/requirements.txt requirements.txt
+2024-04-27 16:00:44,660 INFO    SenderThread:1410857 [dir_watcher.py:finish():402] scan save: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/conda-environment.yaml conda-environment.yaml
+2024-04-27 16:00:44,663 INFO    SenderThread:1410857 [dir_watcher.py:finish():402] scan save: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json wandb-summary.json
+2024-04-27 16:00:44,663 INFO    SenderThread:1410857 [dir_watcher.py:finish():402] scan save: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log output.log
+2024-04-27 16:00:44,668 INFO    SenderThread:1410857 [dir_watcher.py:finish():402] scan save: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/config.yaml config.yaml
+2024-04-27 16:00:44,670 INFO    SenderThread:1410857 [dir_watcher.py:finish():402] scan save: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-metadata.json wandb-metadata.json
+2024-04-27 16:00:44,673 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 10
+2024-04-27 16:00:44,673 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:00:44,673 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 10
+2024-04-27 16:00:44,674 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:00:44,674 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 10
+2024-04-27 16:00:44,674 INFO    SenderThread:1410857 [file_pusher.py:finish():172] shutting down file pusher
+2024-04-27 16:00:44,948 INFO    wandb-upload_0:1410857 [upload_job.py:push():131] Uploaded file /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/requirements.txt
+2024-04-27 16:00:45,025 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:45,026 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:45,033 INFO    wandb-upload_4:1410857 [upload_job.py:push():131] Uploaded file /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/config.yaml
+2024-04-27 16:00:45,050 INFO    wandb-upload_3:1410857 [upload_job.py:push():131] Uploaded file /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/output.log
+2024-04-27 16:00:45,051 INFO    wandb-upload_2:1410857 [upload_job.py:push():131] Uploaded file /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/wandb-summary.json
+2024-04-27 16:00:46,026 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:46,027 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:47,027 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:47,028 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:48,028 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:48,029 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:49,030 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:49,031 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:49,031 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:50,032 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:50,032 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:51,032 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:51,033 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:52,034 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:52,034 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:53,034 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:53,035 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:54,036 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:54,036 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:54,036 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:55,036 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:55,037 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:56,037 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:56,038 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:57,038 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:57,039 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:58,039 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:58,040 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:00:59,040 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:00:59,041 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:00:59,041 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:00,042 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:00,042 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:01,042 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:01,043 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:02,044 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:02,044 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:03,045 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:03,045 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:04,046 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:04,047 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: status_report
+2024-04-27 16:01:04,047 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:05,047 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:05,048 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:06,048 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:06,049 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:06,243 INFO    wandb-upload_1:1410857 [upload_job.py:push():131] Uploaded file /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/files/conda-environment.yaml
+2024-04-27 16:01:06,443 INFO    Thread-11 :1410857 [sender.py:transition_state():614] send defer: 11
+2024-04-27 16:01:06,444 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:01:06,444 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 11
+2024-04-27 16:01:06,444 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:01:06,444 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 11
+2024-04-27 16:01:06,445 INFO    SenderThread:1410857 [file_pusher.py:join():178] waiting for file pusher
+2024-04-27 16:01:06,445 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 12
+2024-04-27 16:01:06,445 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:01:06,445 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 12
+2024-04-27 16:01:06,445 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:01:06,445 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 12
+2024-04-27 16:01:06,446 INFO    SenderThread:1410857 [file_stream.py:finish():614] file stream finish called
+2024-04-27 16:01:06,707 INFO    SenderThread:1410857 [file_stream.py:finish():618] file stream finish is done
+2024-04-27 16:01:06,707 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 13
+2024-04-27 16:01:06,707 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:01:06,707 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 13
+2024-04-27 16:01:06,707 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:01:06,707 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 13
+2024-04-27 16:01:06,708 INFO    SenderThread:1410857 [sender.py:transition_state():614] send defer: 14
+2024-04-27 16:01:06,708 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: defer
+2024-04-27 16:01:06,708 DEBUG   SenderThread:1410857 [sender.py:send():379] send: final
+2024-04-27 16:01:06,708 INFO    HandlerThread:1410857 [handler.py:handle_request_defer():172] handle defer: 14
+2024-04-27 16:01:06,708 DEBUG   SenderThread:1410857 [sender.py:send():379] send: footer
+2024-04-27 16:01:06,709 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: defer
+2024-04-27 16:01:06,709 INFO    SenderThread:1410857 [sender.py:send_request_defer():610] handle sender defer: 14
+2024-04-27 16:01:06,709 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:06,710 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:06,710 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-27 16:01:06,710 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: poll_exit
+2024-04-27 16:01:06,711 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: server_info
+2024-04-27 16:01:06,711 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: get_summary
+2024-04-27 16:01:06,711 DEBUG   SenderThread:1410857 [sender.py:send_request():406] send_request: server_info
+2024-04-27 16:01:06,715 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: sampled_history
+2024-04-27 16:01:06,760 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-27 16:01:06,782 INFO    MainThread:1410857 [wandb_run.py:_footer_history_summary_info():3920] rendering history
+2024-04-27 16:01:06,811 INFO    MainThread:1410857 [wandb_run.py:_footer_history_summary_info():3952] rendering summary
+2024-04-27 16:01:06,822 INFO    MainThread:1410857 [wandb_run.py:_footer_sync_info():3879] logging synced files
+2024-04-27 16:01:06,822 DEBUG   HandlerThread:1410857 [handler.py:handle_request():146] handle_request: shutdown
+2024-04-27 16:01:06,822 INFO    HandlerThread:1410857 [handler.py:finish():866] shutting down handler
+2024-04-27 16:01:07,711 INFO    WriterThread:1410857 [datastore.py:close():296] close: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240427_143337-rirxzdhn/run-rirxzdhn.wandb
+2024-04-27 16:01:07,782 INFO    SenderThread:1410857 [sender.py:finish():1546] shutting down sender
+2024-04-27 16:01:07,783 INFO    SenderThread:1410857 [file_pusher.py:finish():172] shutting down file pusher
+2024-04-27 16:01:07,783 INFO    SenderThread:1410857 [file_pusher.py:join():178] waiting for file pusher

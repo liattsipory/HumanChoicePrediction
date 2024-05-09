@@ -1,0 +1,2851 @@
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'ENV_HPT_mode' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'seed' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'basic_nature' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'online_simulation_factor' was locked by 'sweep' (ignored update).
+Start training the environment...
+################
+# Epoch 0
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.33: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 7000it [01:42, 68.29it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:27<00:00, 35.93it/s]
+
+
+
+Test: 247it [00:06, 39.45it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7008824666903389
+accuracy_per_mean_user_and_bot:  0.7793003654143382
+################
+# Epoch 1
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.45: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6822it [01:44, 65.42it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:30<00:00, 32.86it/s]
+
+
+
+
+Test: 247it [00:07, 34.41it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7029416461779034
+accuracy_per_mean_user_and_bot:  0.7884244083424742
+################
+# Epoch 2
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.93: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6916it [01:38, 69.94it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 37.28it/s]
+
+
+
+Test: 247it [00:06, 39.53it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7174028161188571
+accuracy_per_mean_user_and_bot:  0.7948087999835377
+################
+# Epoch 3
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.27: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6990it [01:41, 68.79it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:27<00:00, 37.19it/s]
+
+
+
+Test: 247it [00:06, 36.27it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7190375081286315
+accuracy_per_mean_user_and_bot:  0.8002707498939922
+################
+# Epoch 4
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.09: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6954it [01:50, 62.67it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:29<00:00, 34.07it/s]
+
+
+
+
+Test: 247it [00:06, 35.54it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7215942267605225
+accuracy_per_mean_user_and_bot:  0.7988689624749602
+################
+# Epoch 5
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.19: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6980it [01:39, 70.04it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 37.98it/s]
+
+
+
+Test: 247it [00:06, 39.64it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7166980094118658
+accuracy_per_mean_user_and_bot:  0.8021301209822947
+################
+# Epoch 6
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.73: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6874it [01:38, 69.50it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:27<00:00, 36.73it/s]
+
+
+
+Test: 247it [00:06, 40.15it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7192155036355726
+accuracy_per_mean_user_and_bot:  0.7997090757263424
+################
+# Epoch 7
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.43: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 7030it [01:51, 62.92it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:29<00:00, 34.14it/s]
+
+
+
+Test: 247it [00:06, 36.42it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7228857516737955
+accuracy_per_mean_user_and_bot:  0.802609217835738
+################
+# Epoch 8
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.80: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6901it [01:38, 70.37it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 38.37it/s]
+
+
+
+Test: 247it [00:06, 39.99it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7346668680102305
+accuracy_per_mean_user_and_bot:  0.8062198400532707
+################
+# Epoch 9
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.78: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6886it [01:34, 72.96it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 38.54it/s]
+
+
+
+Test: 247it [00:06, 41.01it/s]
+Create online-simulation users for this epoch. mean games/user: 23.67:   0%| | 2
+proba_accuracy_per_mean_user_and_bot:  0.7187900834051894
+accuracy_per_mean_user_and_bot:  0.7932227521108954
+################
+# Epoch 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.44: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 7025it [01:49, 64.07it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:27<00:00, 36.08it/s]
+
+
+
+Test: 247it [00:06, 37.73it/s]
+Create online-simulation users for this epoch. mean games/user: 30.17:   1%| | 6
+proba_accuracy_per_mean_user_and_bot:  0.7152727414894234
+accuracy_per_mean_user_and_bot:  0.8028156291385632
+################
+# Epoch 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.76: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6883it [01:35, 72.34it/s]
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:24<00:00, 40.44it/s]
+
+
+
+Test: 247it [00:05, 43.48it/s]
+Create online-simulation users for this epoch. mean games/user: 32.60:   1%| | 5
+proba_accuracy_per_mean_user_and_bot:  0.7165266760068734
+accuracy_per_mean_user_and_bot:  0.799493347800077
+################
+# Epoch 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.37: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6804it [01:33, 72.58it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:25<00:00, 39.31it/s]
+
+
+
+Test: 247it [00:06, 40.73it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7289273010616247
+accuracy_per_mean_user_and_bot:  0.7970923173437201
+################
+# Epoch 13
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.62: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6856it [01:46, 64.33it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:28<00:00, 35.12it/s]
+
+
+
+
+Test: 247it [00:06, 35.76it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7262747987403289
+accuracy_per_mean_user_and_bot:  0.7930315269739332
+################
+# Epoch 14
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.08: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6950it [01:33, 74.03it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 38.59it/s]
+
+
+
+Test: 247it [00:06, 41.06it/s]
+proba_accuracy_per_mean_user_and_bot:  0.73215431687282
+accuracy_per_mean_user_and_bot:  0.8045219810934331
+################
+# Epoch 15
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.07: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6946it [01:36, 72.00it/s]
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:25<00:00, 39.18it/s]
+
+
+
+Test: 247it [00:06, 40.86it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7121305378617241
+accuracy_per_mean_user_and_bot:  0.7898866589183151
+################
+# Epoch 16
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 33.08: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6957it [01:46, 65.13it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:27<00:00, 35.99it/s]
+
+
+
+Test: 247it [00:06, 39.07it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7220432403238648
+accuracy_per_mean_user_and_bot:  0.7912277295412002
+################
+# Epoch 17
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.77: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6887it [01:36, 71.44it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 38.65it/s]
+
+
+
+Test: 247it [00:05, 41.27it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7182837474968687
+accuracy_per_mean_user_and_bot:  0.7910480447859324
+################
+# Epoch 18
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.84: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6898it [01:35, 72.18it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 38.59it/s]
+
+
+
+Test: 247it [00:06, 40.46it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7184710398873919
+accuracy_per_mean_user_and_bot:  0.7900140175878528
+################
+# Epoch 19
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.63: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6863it [01:43, 66.62it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:28<00:00, 35.30it/s]
+
+
+
+Test: 247it [00:06, 38.61it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7100879447511755
+accuracy_per_mean_user_and_bot:  0.7866838509583817
+################
+# Epoch 20
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.68: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6868it [01:34, 72.89it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:26<00:00, 38.47it/s]
+
+
+
+Test: 247it [00:06, 40.95it/s]
+proba_accuracy_per_mean_user_and_bot:  0.720816308646933
+accuracy_per_mean_user_and_bot:  0.7896973094708274
+################
+# Epoch 21
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.69: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6868it [01:34, 72.54it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:25<00:00, 38.89it/s]
+
+
+
+Test: 247it [00:05, 42.99it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7180598265846995
+accuracy_per_mean_user_and_bot:  0.7905219691229438
+################
+# Epoch 22
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.98: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6937it [01:40, 69.04it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:28<00:00, 34.81it/s]
+
+
+
+Test: 247it [00:07, 34.83it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7224005771975534
+accuracy_per_mean_user_and_bot:  0.7927302651316772
+################
+# Epoch 23
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create online-simulation users for this epoch. mean games/user: 32.45: 100%|█| 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online Simulation: 6829it [01:31, 74.69it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|████████████████████████████████| 1006/1006 [00:25<00:00, 38.92it/s]
+
+
+
+Test: 247it [00:05, 41.61it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7230338661010289
+accuracy_per_mean_user_and_bot:  0.7876802988456427
+################
+# Epoch 24
+################
+Create online-simulation users for this epoch. mean games/user: 35.93:   4%| | 3
+Create online-simulation users for this epoch. mean games/user: 34.55:   6%| | 4
+Create online-simulation users for this epoch. mean games/user: 36.54:   8%| | 6
+Create online-simulation users for this epoch. mean games/user: 36.21:  10%| | 8
+Create online-simulation users for this epoch. mean games/user: 35.12:  13%|▏| 1
+Create online-simulation users for this epoch. mean games/user: 34.85:  15%|▏| 1
+Create online-simulation users for this epoch. mean games/user: 35.20:  18%|▏| 1
+Create online-simulation users for this epoch. mean games/user: 35.27:  20%|▏| 1
+Create online-simulation users for this epoch. mean games/user: 35.10:  22%|▏| 1
+Create online-simulation users for this epoch. mean games/user: 34.85:  24%|▏| 2
+Create online-simulation users for this epoch. mean games/user: 34.64:  27%|▎| 2
+Create online-simulation users for this epoch. mean games/user: 34.61:  29%|▎| 2
+Create online-simulation users for this epoch. mean games/user: 34.58:  32%|▎| 2
+Create online-simulation users for this epoch. mean games/user: 34.23:  35%|▎| 2
+Create online-simulation users for this epoch. mean games/user: 34.09:  37%|▎| 3
+Create online-simulation users for this epoch. mean games/user: 34.01:  39%|▍| 3
+Create online-simulation users for this epoch. mean games/user: 34.06:  41%|▍| 3
+Create online-simulation users for this epoch. mean games/user: 34.09:  44%|▍| 3
+Create online-simulation users for this epoch. mean games/user: 34.20:  46%|▍| 3
+Create online-simulation users for this epoch. mean games/user: 34.24:  49%|▍| 4
+Create online-simulation users for this epoch. mean games/user: 34.38:  51%|▌| 4
+Create online-simulation users for this epoch. mean games/user: 34.38:  53%|▌| 4
+Create online-simulation users for this epoch. mean games/user: 34.14:  56%|▌| 4
+Create online-simulation users for this epoch. mean games/user: 34.08:  59%|▌| 4
+Create online-simulation users for this epoch. mean games/user: 34.07:  61%|▌| 5
+Create online-simulation users for this epoch. mean games/user: 34.05:  63%|▋| 5
+Create online-simulation users for this epoch. mean games/user: 33.96:  66%|▋| 5
+Create online-simulation users for this epoch. mean games/user: 33.92:  68%|▋| 5
+Create online-simulation users for this epoch. mean games/user: 33.83:  71%|▋| 5
+Create online-simulation users for this epoch. mean games/user: 33.89:  73%|▋| 6
+Create online-simulation users for this epoch. mean games/user: 33.80:  76%|▊| 6
+Create online-simulation users for this epoch. mean games/user: 33.82:  78%|▊| 6
+Create online-simulation users for this epoch. mean games/user: 33.88:  81%|▊| 6
+Create online-simulation users for this epoch. mean games/user: 33.90:  83%|▊| 7
+Create online-simulation users for this epoch. mean games/user: 33.81:  86%|▊| 7
+Create online-simulation users for this epoch. mean games/user: 33.91:  88%|▉| 7
+Create online-simulation users for this epoch. mean games/user: 33.87:  90%|▉| 7
+Create online-simulation users for this epoch. mean games/user: 33.87:  93%|▉| 7
+Create online-simulation users for this epoch. mean games/user: 33.85:  95%|▉| 8
+Create online-simulation users for this epoch. mean games/user: 33.78:  98%|▉| 8
+Online Simulation:   1%|▏                     | 47/7087 [00:00<01:33, 75.15it/s]
+Online Simulation:   3%|▌                    | 189/7087 [00:02<01:40, 68.44it/s]
+Online Simulation:   5%|▉                    | 327/7087 [00:04<01:46, 63.77it/s]
+Online Simulation:   7%|█▎                   | 462/7087 [00:06<01:35, 69.48it/s]
+Online Simulation:   9%|█▊                   | 603/7087 [00:08<01:25, 75.51it/s]
+Online Simulation:  10%|██▏                  | 744/7087 [00:10<01:34, 66.99it/s]
+Online Simulation:  13%|██▋                  | 886/7087 [00:12<01:26, 71.79it/s]
+Online Simulation:  15%|██▉                 | 1033/7087 [00:14<01:25, 70.66it/s]
+Online Simulation:  17%|███▎                | 1177/7087 [00:16<01:17, 76.49it/s]
+Online Simulation:  19%|███▊                | 1330/7087 [00:18<01:13, 78.15it/s]
+Online Simulation:  21%|████▏               | 1486/7087 [00:20<01:10, 79.31it/s]
+Online Simulation:  23%|████▋               | 1642/7087 [00:22<01:13, 74.18it/s]
+Online Simulation:  25%|█████               | 1795/7087 [00:24<01:15, 69.72it/s]
+Online Simulation:  27%|█████▍              | 1939/7087 [00:26<01:11, 71.99it/s]
+Online Simulation:  30%|█████▉              | 2093/7087 [00:28<01:04, 77.13it/s]
+Online Simulation:  32%|██████▎             | 2244/7087 [00:30<01:08, 70.75it/s]
+Online Simulation:  34%|██████▊             | 2400/7087 [00:32<01:00, 77.97it/s]
+Online Simulation:  36%|███████▏            | 2552/7087 [00:34<00:58, 77.69it/s]
+Online Simulation:  38%|███████▋            | 2704/7087 [00:36<00:57, 76.30it/s]
+Online Simulation:  40%|████████            | 2857/7087 [00:38<00:57, 73.32it/s]
+Online Simulation:  42%|████████▍           | 3001/7087 [00:40<01:02, 65.60it/s]
+Online Simulation:  44%|████████▊           | 3142/7087 [00:42<00:53, 73.43it/s]
+Online Simulation:  46%|█████████▎          | 3286/7087 [00:44<00:52, 72.93it/s]
+Online Simulation:  49%|█████████▋          | 3439/7087 [00:46<00:47, 76.80it/s]
+Online Simulation:  51%|██████████          | 3586/7087 [00:48<00:48, 71.65it/s]
+Online Simulation:  53%|██████████▌         | 3730/7087 [00:50<00:44, 75.22it/s]
+Online Simulation:  55%|██████████▉         | 3882/7087 [00:52<00:42, 75.43it/s]
+Online Simulation:  57%|███████████▎        | 4025/7087 [00:54<00:44, 68.58it/s]
+Online Simulation:  59%|███████████▊        | 4169/7087 [00:56<00:39, 73.81it/s]
+Online Simulation:  61%|████████████▏       | 4313/7087 [00:58<00:38, 72.82it/s]
+Online Simulation:  63%|████████████▌       | 4457/7087 [01:00<00:37, 70.83it/s]
+Online Simulation:  65%|████████████▉       | 4592/7087 [01:02<00:36, 68.94it/s]
+Online Simulation:  67%|█████████████▎      | 4727/7087 [01:04<00:34, 68.63it/s]
+Online Simulation:  69%|█████████████▋      | 4865/7087 [01:06<00:35, 63.17it/s]
+Online Simulation:  71%|██████████████▏     | 5006/7087 [01:08<00:28, 72.65it/s]
+Online Simulation:  73%|██████████████▌     | 5161/7087 [01:10<00:24, 77.80it/s]
+Online Simulation:  75%|██████████████▉     | 5313/7087 [01:12<00:23, 73.97it/s]
+Online Simulation:  77%|███████████████▍    | 5457/7087 [01:14<00:22, 73.10it/s]
+Online Simulation:  79%|███████████████▊    | 5611/7087 [01:16<00:19, 75.40it/s]
+Online Simulation:  81%|████████████████▏   | 5756/7087 [01:18<00:17, 75.26it/s]
+Online Simulation:  83%|████████████████▋   | 5904/7087 [01:20<00:16, 73.13it/s]
+Online Simulation:  85%|█████████████████   | 6048/7087 [01:22<00:13, 75.46it/s]
+Online Simulation:  88%|█████████████████▌  | 6204/7087 [01:24<00:11, 77.58it/s]
+Online Simulation:  90%|█████████████████▉  | 6343/7087 [01:26<00:10, 67.72it/s]
+Online Simulation:  91%|██████████████████▎ | 6483/7087 [01:28<00:08, 68.22it/s]
+Online Simulation:  93%|██████████████████▋ | 6620/7087 [01:30<00:06, 67.49it/s]
+Online Simulation:  95%|███████████████████ | 6750/7087 [01:32<00:05, 63.14it/s]
+Online Simulation:  97%|███████████████████▍| 6891/7087 [01:34<00:02, 76.00it/s]
+Online Simulation:  99%|███████████████████▊| 7040/7087 [01:37<00:00, 74.59it/s]
+Train:   5%|█▊                                | 55/1006 [00:01<00:22, 42.29it/s]
+Train:  14%|████▋                            | 143/1006 [00:03<00:19, 45.00it/s]
+Train:  23%|███████▋                         | 235/1006 [00:05<00:17, 43.85it/s]
+Train:  31%|██████████▎                      | 316/1006 [00:07<00:16, 42.19it/s]
+Train:  40%|█████████████▏                   | 402/1006 [00:09<00:13, 46.20it/s]
+Train:  48%|███████████████▉                 | 485/1006 [00:11<00:11, 43.53it/s]
+Train:  56%|██████████████████▌              | 565/1006 [00:13<00:11, 39.67it/s]
+Train:  63%|████████████████████▉            | 637/1006 [00:15<00:09, 37.92it/s]
+Train:  71%|███████████████████████▌         | 717/1006 [00:17<00:06, 42.31it/s]
+Train:  80%|██████████████████████████▎      | 803/1006 [00:19<00:05, 40.49it/s]
+Train:  87%|████████████████████████████▋    | 874/1006 [00:21<00:03, 35.78it/s]
+Train:  95%|███████████████████████████████▏ | 952/1006 [00:23<00:01, 37.10it/s]
+Test:   4%|█▌                                  | 10/239 [00:00<00:04, 48.43it/s]
+Test:  34%|████████████▏                       | 81/239 [00:02<00:04, 34.69it/s]
+Test:  58%|████████████████████▎              | 139/239 [00:03<00:02, 37.14it/s]
+Test:  90%|███████████████████████████████▍   | 215/239 [00:05<00:00, 46.84it/s]
+Test: 247it [00:06, 38.95it/s]
+Test: 247it [00:06, 38.95it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7235173470376451
+accuracy_per_mean_user_and_bot:  0.7894188144131511
