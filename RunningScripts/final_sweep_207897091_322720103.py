@@ -66,19 +66,19 @@ sweep_config_3_with_metric_all = {
     },
     "command": command
 }
-sweep_config_only_new_with_metric_all = {
-    "name": "decide between only new astrengies with metric and features: {values: [EFs, GPT4, BERT]",
+sweep_config_only_new_no_metric = {
+    "name": "decide between only new astrengies. no mettric_just ef",
     "method": "grid",
-    "metric": {
-        "goal": "maximize",
-        "name": "AUC.test.max"
-    },
+    # "metric": {
+    #     "goal": "maximize",
+    #     "name": "AUC.test.max"
+    # },
     "parameters": {
         "ENV_HPT_mode": {"values": [True]},
         "seed": {"values": list(range(1, 6))},
         "architecture": {"values": ["LSTM"]},
         "online_simulation_factor": {"values": [0, 4]},
-        "features": {"values": ["EFs", "GPT4", "BERT"]},
+        # "features": {"values": ["EFs", "GPT4", "BERT"]},
         "basic_nature": {"values": [25,26,27,28]},
     },
     "command": command
@@ -102,7 +102,7 @@ sweep_config_eilam_change = {
         "ENV_HPT_mode": {"values": [True]},
         "seed": {"values": list(range(1, 6))},
         "online_simulation_factor": {"values": [0, 4]},
-        #"features": {"values": ["EFs", "GPT4", "BERT"]},
+        # "features": {"values": ["EFs", "GPT4", "BERT"]},
         "basic_nature": {"values": [12]},
     },
     "command": command
@@ -157,12 +157,47 @@ sweep_config = {
     },
     "command": command
 }
+
+sweep_config_true = {
+    "name": "run eilam basic sweep config WITH TRUE",
+    "method": "grid",
+    "metric": {
+        "goal": "maximize",
+        "name": "AUC.test.max"
+    },
+    "parameters": {
+        "ENV_HPT_mode": {"values": [True]},
+        "architecture": {"values": ["LSTM"]},
+        "seed": {"values": list(range(1, 6))},
+        "online_simulation_factor": {"values": [0, 4]},
+        "features": {"values": ["EFs", "GPT4", "BERT"]},
+    },
+    "command": command
+}
+
+sweep_config_final = {
+    "name": "run final config on best astrategies on test set",
+    "method": "grid",
+    # "metric": {
+    #     "goal": "maximize",
+    #     "name": "AUC.test.max"
+    # },
+    "parameters": {
+        "ENV_HPT_mode": {"values": [False]},
+        #"architecture": {"values": ["LSTM"]},
+        "seed": {"values": list(range(1, 6))},
+        "online_simulation_factor": {"values": [0, 4]},
+        #"features": {"values": ["EFs", "GPT4", "BERT"]},
+        "basic_nature": {"values": [24,25,27,26,28, 12]},
+    },
+    "command": command
+}
 # sweep_id = wandb.sweep(sweep=sweep_config, project=project)
 # print("run this line to run your agent in a screen:")
 # print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
 
-sweep_id = wandb.sweep(sweep=sweep_config_only_new_with_metric_all, project=project)
-print("decide between only new astrengies with metric and features: {values: [EFs, GPT4, BERT]")
+sweep_id = wandb.sweep(sweep=sweep_config_final, project=project)
+print("run final config on best astrategies on test set")
 print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
 # sweep_id = wandb.sweep(sweep=sweep_config_0, project=project)
 # print("run this line to run your agent in a screen:")
