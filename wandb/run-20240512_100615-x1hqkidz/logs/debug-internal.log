@@ -1,0 +1,80 @@
+2024-05-12 10:06:15,192 INFO    StreamThr :43684 [internal.py:wandb_internal():86] W&B internal server running at pid: 43684, started at: 2024-05-12 10:06:15.191332
+2024-05-12 10:06:15,193 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: status
+2024-05-12 10:06:15,202 INFO    WriterThread:43684 [datastore.py:open_for_write():87] open: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/run-x1hqkidz.wandb
+2024-05-12 10:06:15,203 DEBUG   SenderThread:43684 [sender.py:send():379] send: header
+2024-05-12 10:06:15,215 DEBUG   SenderThread:43684 [sender.py:send():379] send: run
+2024-05-12 10:06:15,545 INFO    SenderThread:43684 [dir_watcher.py:__init__():211] watching files in: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files
+2024-05-12 10:06:15,545 INFO    SenderThread:43684 [sender.py:_start_run_threads():1124] run started: x1hqkidz with start time 1715497575.191983
+2024-05-12 10:06:15,556 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: check_version
+2024-05-12 10:06:15,557 DEBUG   SenderThread:43684 [sender.py:send_request():406] send_request: check_version
+2024-05-12 10:06:15,638 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: run_start
+2024-05-12 10:06:15,734 DEBUG   HandlerThread:43684 [system_info.py:__init__():26] System info init
+2024-05-12 10:06:15,734 DEBUG   HandlerThread:43684 [system_info.py:__init__():41] System info init done
+2024-05-12 10:06:15,734 INFO    HandlerThread:43684 [system_monitor.py:start():194] Starting system monitor
+2024-05-12 10:06:15,735 INFO    SystemMonitor:43684 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-05-12 10:06:15,735 INFO    HandlerThread:43684 [system_monitor.py:probe():214] Collecting system info
+2024-05-12 10:06:15,736 INFO    SystemMonitor:43684 [interfaces.py:start():190] Started cpu monitoring
+2024-05-12 10:06:15,737 INFO    SystemMonitor:43684 [interfaces.py:start():190] Started disk monitoring
+2024-05-12 10:06:15,738 INFO    SystemMonitor:43684 [interfaces.py:start():190] Started gpu monitoring
+2024-05-12 10:06:15,739 INFO    SystemMonitor:43684 [interfaces.py:start():190] Started memory monitoring
+2024-05-12 10:06:15,740 INFO    SystemMonitor:43684 [interfaces.py:start():190] Started network monitoring
+2024-05-12 10:06:15,752 DEBUG   HandlerThread:43684 [system_info.py:probe():150] Probing system
+2024-05-12 10:06:15,757 DEBUG   HandlerThread:43684 [system_info.py:_probe_git():135] Probing git
+2024-05-12 10:06:15,768 DEBUG   HandlerThread:43684 [system_info.py:_probe_git():143] Probing git done
+2024-05-12 10:06:15,768 DEBUG   HandlerThread:43684 [system_info.py:probe():198] Probing system done
+2024-05-12 10:06:15,768 DEBUG   HandlerThread:43684 [system_monitor.py:probe():223] {'os': 'Linux-5.15.0-1063-azure-x86_64-with-glibc2.17', 'python': '3.8.19', 'heartbeatAt': '2024-05-12T07:06:15.752892', 'startedAt': '2024-05-12T07:06:15.182843', 'docker': None, 'cuda': None, 'args': ('--ENV_HPT_mode=False', '--basic_nature=24', '--online_simulation_factor=0', '--seed=1'), 'state': 'running', 'program': 'StrategyTransfer.py', 'codePathLocal': 'StrategyTransfer.py', 'codePath': 'StrategyTransfer.py', 'git': {'remote': 'https://github.com/liattsipory/HumanChoicePrediction.git', 'commit': '605885b0bde1f919faaffa00c2bf8eb5b907ef4c'}, 'email': 'noa-levi@campus.technion.ac.il', 'root': '/home/student/HumanChoicePrediction/HumanChoicePrediction-1', 'host': 'nlpgpu2023w-0001', 'username': 'student', 'executable': '/anaconda/envs/final_project_env/bin/python', 'cpu_count': 6, 'cpu_count_logical': 12, 'cpu_freq': {'current': 2593.9919999999997, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}, {'current': 2593.992, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 145.1909637451172, 'used': 133.49480438232422}}, 'gpu': 'Tesla M60', 'gpu_count': 1, 'gpu_devices': [{'name': 'Tesla M60', 'memory_total': 8524136448}], 'memory': {'total': 110.04447174072266}}
+2024-05-12 10:06:15,771 INFO    HandlerThread:43684 [system_monitor.py:probe():224] Finished collecting system info
+2024-05-12 10:06:15,771 INFO    HandlerThread:43684 [system_monitor.py:probe():227] Publishing system info
+2024-05-12 10:06:15,772 DEBUG   HandlerThread:43684 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-05-12 10:06:16,547 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/conda-environment.yaml
+2024-05-12 10:06:22,701 DEBUG   HandlerThread:43684 [system_info.py:_save_conda():222] Saving conda packages done
+2024-05-12 10:06:22,702 INFO    HandlerThread:43684 [system_monitor.py:probe():229] Finished publishing system info
+2024-05-12 10:06:22,744 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: status_report
+2024-05-12 10:06:22,744 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: keepalive
+2024-05-12 10:06:22,745 DEBUG   SenderThread:43684 [sender.py:send():379] send: files
+2024-05-12 10:06:22,745 INFO    SenderThread:43684 [sender.py:_save_file():1390] saving file wandb-metadata.json with policy now
+2024-05-12 10:06:22,859 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: python_packages
+2024-05-12 10:06:22,859 DEBUG   SenderThread:43684 [sender.py:send_request():406] send_request: python_packages
+2024-05-12 10:06:22,859 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-12 10:06:22,860 DEBUG   SenderThread:43684 [sender.py:send_request():406] send_request: stop_status
+2024-05-12 10:06:22,861 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-12 10:06:23,036 DEBUG   SenderThread:43684 [sender.py:send():379] send: telemetry
+2024-05-12 10:06:23,037 DEBUG   SenderThread:43684 [sender.py:send():379] send: config
+2024-05-12 10:06:23,038 DEBUG   SenderThread:43684 [sender.py:send():379] send: telemetry
+2024-05-12 10:06:23,038 DEBUG   SenderThread:43684 [sender.py:send():379] send: config
+2024-05-12 10:06:23,038 DEBUG   SenderThread:43684 [sender.py:send():379] send: config
+2024-05-12 10:06:23,038 DEBUG   SenderThread:43684 [sender.py:send():379] send: config
+2024-05-12 10:06:23,038 DEBUG   SenderThread:43684 [sender.py:send():379] send: config
+2024-05-12 10:06:23,038 DEBUG   SenderThread:43684 [sender.py:send():379] send: config
+2024-05-12 10:06:23,038 DEBUG   SenderThread:43684 [sender.py:send():379] send: config
+2024-05-12 10:06:23,167 INFO    wandb-upload_0:43684 [upload_job.py:push():131] Uploaded file /tmp/tmp3byxkdagwandb/muulp8tr-wandb-metadata.json
+2024-05-12 10:06:23,548 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/conda-environment.yaml
+2024-05-12 10:06:23,548 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/output.log
+2024-05-12 10:06:23,548 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/wandb-metadata.json
+2024-05-12 10:06:23,548 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_created():271] file/dir created: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/requirements.txt
+2024-05-12 10:06:25,548 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/output.log
+2024-05-12 10:06:26,039 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: status_report
+2024-05-12 10:06:29,549 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/output.log
+2024-05-12 10:06:31,885 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: status_report
+2024-05-12 10:06:36,886 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: status_report
+2024-05-12 10:06:37,859 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: stop_status
+2024-05-12 10:06:37,860 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: internal_messages
+2024-05-12 10:06:37,860 DEBUG   SenderThread:43684 [sender.py:send_request():406] send_request: stop_status
+2024-05-12 10:06:42,010 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: status_report
+2024-05-12 10:06:47,014 DEBUG   HandlerThread:43684 [handler.py:handle_request():146] handle_request: status_report
+2024-05-12 10:06:47,555 INFO    Thread-13 :43684 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/files/config.yaml
+2024-05-12 10:06:48,228 WARNING StreamThr :43684 [internal.py:is_dead():414] Internal process exiting, parent pid 43638 disappeared
+2024-05-12 10:06:48,228 ERROR   StreamThr :43684 [internal.py:wandb_internal():152] Internal process shutdown.
+2024-05-12 10:06:49,015 INFO    HandlerThread:43684 [handler.py:finish():866] shutting down handler
+2024-05-12 10:06:49,015 INFO    HandlerThread:43684 [system_monitor.py:finish():203] Stopping system monitor
+2024-05-12 10:06:49,015 DEBUG   SystemMonitor:43684 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-05-12 10:06:49,016 INFO    WriterThread:43684 [datastore.py:close():296] close: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240512_100615-x1hqkidz/run-x1hqkidz.wandb
+2024-05-12 10:06:49,016 DEBUG   SystemMonitor:43684 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-05-12 10:06:49,016 INFO    HandlerThread:43684 [interfaces.py:finish():202] Joined cpu monitor
+2024-05-12 10:06:49,016 DEBUG   SystemMonitor:43684 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-05-12 10:06:49,016 INFO    HandlerThread:43684 [interfaces.py:finish():202] Joined disk monitor
+2024-05-12 10:06:49,054 INFO    HandlerThread:43684 [interfaces.py:finish():202] Joined gpu monitor
+2024-05-12 10:06:49,055 INFO    HandlerThread:43684 [interfaces.py:finish():202] Joined memory monitor
+2024-05-12 10:06:49,055 INFO    HandlerThread:43684 [interfaces.py:finish():202] Joined network monitor
+2024-05-12 10:06:49,089 INFO    SenderThread:43684 [sender.py:finish():1546] shutting down sender
+2024-05-12 10:06:49,603 INFO    MainThread:43684 [internal.py:handle_exit():76] Internal process exited

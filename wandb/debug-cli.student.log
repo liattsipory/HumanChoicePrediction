@@ -6156,3 +6156,973 @@ requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: 
 	seed: 5
 2024-05-12 03:48:32 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --architecture=LSTM --basic_nature=25 --online_simulation_factor=4 --seed=5
 2024-05-12 03:48:38 INFO Running runs: ['qp1dknqz']
+2024-05-12 10:05:39 INFO Running runs: []
+2024-05-12 10:05:39 INFO Agent received command: run
+2024-05-12 10:05:39 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 24
+	online_simulation_factor: 0
+	seed: 1
+2024-05-12 10:05:39 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=24 --online_simulation_factor=0 --seed=1
+2024-05-12 10:05:44 INFO Running runs: ['x1hqkidz']
+2024-05-12 10:20:03 INFO Running runs: []
+2024-05-12 10:20:03 INFO Agent received command: run
+2024-05-12 10:20:03 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 24
+	online_simulation_factor: 0
+	seed: 1
+2024-05-12 10:20:03 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=24 --online_simulation_factor=0 --seed=1
+2024-05-12 10:20:08 INFO Running runs: ['6kwpkjzv']
+2024-05-12 10:48:03 INFO Cleaning up finished run: 6kwpkjzv
+2024-05-12 10:48:31 INFO Agent received command: run
+2024-05-12 10:48:31 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 24
+	online_simulation_factor: 0
+	seed: 2
+2024-05-12 10:48:31 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=24 --online_simulation_factor=0 --seed=2
+2024-05-12 10:48:36 INFO Running runs: ['ewjponkq']
+2024-05-12 11:16:21 INFO Cleaning up finished run: ewjponkq
+2024-05-12 11:16:21 INFO Agent received command: run
+2024-05-12 11:16:21 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 24
+	online_simulation_factor: 0
+	seed: 3
+2024-05-12 11:16:21 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=24 --online_simulation_factor=0 --seed=3
+2024-05-12 11:16:26 INFO Running runs: ['031tizpk']
+2024-05-12 11:45:19 INFO Cleaning up finished run: 031tizpk
+2024-05-12 11:45:19 INFO Agent received command: run
+2024-05-12 11:45:19 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 24
+	online_simulation_factor: 0
+	seed: 4
+2024-05-12 11:45:19 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=24 --online_simulation_factor=0 --seed=4
+2024-05-12 11:45:24 INFO Running runs: ['vf9v63ti']
+2024-05-12 12:13:31 INFO Cleaning up finished run: vf9v63ti
+2024-05-12 12:13:32 INFO Agent received command: run
+2024-05-12 12:13:32 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 24
+	online_simulation_factor: 0
+	seed: 5
+2024-05-12 12:13:32 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=24 --online_simulation_factor=0 --seed=5
+2024-05-12 12:13:37 INFO Running runs: ['f954iv2m']
+2024-05-12 12:42:25 INFO Cleaning up finished run: f954iv2m
+2024-05-12 12:42:25 INFO Agent received command: run
+2024-05-12 12:42:25 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 24
+	online_simulation_factor: 4
+	seed: 1
+2024-05-12 12:42:25 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=24 --online_simulation_factor=4 --seed=1
+2024-05-12 12:42:30 INFO Running runs: ['adfp8du5']
+2024-05-12 13:07:04 INFO Running runs: []
+2024-05-12 13:07:04 INFO Agent received command: run
+2024-05-12 13:07:04 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 0
+	seed: 1
+2024-05-12 13:07:04 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=0 --seed=1
+2024-05-12 13:07:09 INFO Running runs: ['2ffwpx8d']
+2024-05-12 13:11:44 ERROR 404 response executing GraphQL.
+2024-05-12 13:11:44 ERROR {"errors":[{"message":"could not find agent wxzrbfmm during agentHeartbeat","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2024-05-12 13:34:59 INFO Cleaning up finished run: 2ffwpx8d
+2024-05-12 13:35:25 INFO Agent received command: run
+2024-05-12 13:35:25 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 0
+	seed: 2
+2024-05-12 13:35:25 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=0 --seed=2
+2024-05-12 13:35:30 INFO Running runs: ['aeg4bsoo']
+2024-05-12 14:04:39 INFO Cleaning up finished run: aeg4bsoo
+2024-05-12 14:04:39 INFO Agent received command: run
+2024-05-12 14:04:39 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 0
+	seed: 3
+2024-05-12 14:04:39 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=0 --seed=3
+2024-05-12 14:04:44 INFO Running runs: ['02kqswit']
+2024-05-12 14:33:13 INFO Cleaning up finished run: 02kqswit
+2024-05-12 14:33:13 INFO Agent received command: run
+2024-05-12 14:33:13 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 0
+	seed: 4
+2024-05-12 14:33:13 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=0 --seed=4
+2024-05-12 14:33:18 INFO Running runs: ['60668yhq']
+2024-05-12 15:02:34 INFO Cleaning up finished run: 60668yhq
+2024-05-12 15:02:34 INFO Agent received command: run
+2024-05-12 15:02:34 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 0
+	seed: 5
+2024-05-12 15:02:34 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=0 --seed=5
+2024-05-12 15:02:39 INFO Running runs: ['tz2xyu4i']
+2024-05-12 15:31:22 INFO Cleaning up finished run: tz2xyu4i
+2024-05-12 15:31:22 INFO Agent received command: run
+2024-05-12 15:31:22 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 1
+2024-05-12 15:31:22 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=1
+2024-05-12 15:31:27 INFO Running runs: ['453ibel0']
+2024-05-13 09:53:46 INFO Running runs: []
+2024-05-13 09:53:47 INFO Agent received command: run
+2024-05-13 09:53:47 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 0
+	seed: 1
+2024-05-13 09:53:47 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=0 --seed=1
+2024-05-13 09:53:52 INFO Running runs: ['ubxije7w']
+2024-05-13 09:55:21 ERROR 400 response executing GraphQL.
+2024-05-13 09:55:21 ERROR {"errors":[{"message":"name required for project query","path":["project"]}],"data":{"project":null}}
+2024-05-13 09:55:21 ERROR Traceback (most recent call last):
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 1055, in sweep
+    response = self.gql(
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 341, in gql
+    ret = self._retry_gql(
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/lib/gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/cli/cli.py", line 105, in wrapper
+    return func(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/cli/cli.py", line 1755, in agent
+    wandb_agent.agent(sweep_id, entity=entity, project=project, count=count)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 570, in agent
+    return run_agent(
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 528, in run_agent
+    agent.run()
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 190, in run
+    sweep_obj = self._api.sweep(self._sweep_id, "{}")
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/internal.py", line 126, in sweep
+    return self.api.sweep(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/normalize.py", line 51, in wrapper
+    raise CommError(message, error)
+wandb.errors.CommError: name required for project query (Error 400: Bad Request)
+
+2024-05-13 09:56:19 ERROR 400 response executing GraphQL.
+2024-05-13 09:56:19 ERROR {"errors":[{"message":"entityName required for project query","path":["project"]}],"data":{"project":null}}
+2024-05-13 09:56:19 ERROR Traceback (most recent call last):
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 1055, in sweep
+    response = self.gql(
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 341, in gql
+    ret = self._retry_gql(
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 369, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/sdk/lib/gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/cli/cli.py", line 105, in wrapper
+    return func(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/cli/cli.py", line 1755, in agent
+    wandb_agent.agent(sweep_id, entity=entity, project=project, count=count)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 570, in agent
+    return run_agent(
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 528, in run_agent
+    agent.run()
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/wandb_agent.py", line 190, in run
+    sweep_obj = self._api.sweep(self._sweep_id, "{}")
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/internal.py", line 126, in sweep
+    return self.api.sweep(*args, **kwargs)
+  File "/anaconda/envs/final_project_env/lib/python3.8/site-packages/wandb/apis/normalize.py", line 51, in wrapper
+    raise CommError(message, error)
+wandb.errors.CommError: entityName required for project query (Error 400: Bad Request)
+
+2024-05-13 09:57:20 INFO Running runs: []
+2024-05-13 09:57:52 INFO Agent received command: run
+2024-05-13 09:57:52 INFO Agent starting run with config:
+	ENV_HPT_mode: True
+	architecture: LSTM
+	basic_nature: 26
+	online_simulation_factor: 0
+	seed: 1
+2024-05-13 09:57:52 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=True --architecture=LSTM --basic_nature=26 --online_simulation_factor=0 --seed=1
+2024-05-13 09:57:57 INFO Running runs: ['7el2kcsb']
+2024-05-13 09:58:26 ERROR 404 response executing GraphQL.
+2024-05-13 09:58:26 ERROR {"errors":[{"message":"could not find agent o64v68tu during agentHeartbeat","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2024-05-13 11:45:11 INFO Running runs: []
+2024-05-13 11:45:11 INFO Agent received command: run
+2024-05-13 11:45:11 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 2
+2024-05-13 11:45:11 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=2
+2024-05-13 11:45:16 INFO Running runs: ['zyls3t6a']
+2024-05-13 11:45:41 INFO Running runs: []
+2024-05-13 11:45:41 INFO Agent received command: run
+2024-05-13 11:45:41 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 3
+2024-05-13 11:45:41 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=3
+2024-05-13 11:45:46 INFO Running runs: ['7h6g0pgr']
+2024-05-13 16:23:37 INFO Cleaning up finished run: 7h6g0pgr
+2024-05-13 16:24:04 INFO Agent received command: run
+2024-05-13 16:24:04 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 4
+2024-05-13 16:24:04 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=4
+2024-05-13 16:24:09 INFO Running runs: ['aut1ehn9']
+2024-05-13 21:05:02 INFO Cleaning up finished run: aut1ehn9
+2024-05-13 21:05:03 INFO Agent received command: run
+2024-05-13 21:05:03 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 5
+2024-05-13 21:05:03 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=5
+2024-05-13 21:05:08 INFO Running runs: ['i80xe5hk']
+2024-05-14 01:48:12 INFO Cleaning up finished run: i80xe5hk
+2024-05-14 01:48:15 INFO Agent received command: run
+2024-05-14 01:48:15 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 0
+	seed: 1
+2024-05-14 01:48:15 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=0 --seed=1
+2024-05-14 01:48:20 INFO Running runs: ['y2m8atl4']
+2024-05-14 02:18:54 INFO Cleaning up finished run: y2m8atl4
+2024-05-14 02:18:54 INFO Agent received command: run
+2024-05-14 02:18:54 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 0
+	seed: 2
+2024-05-14 02:18:54 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=0 --seed=2
+2024-05-14 02:18:59 INFO Running runs: ['vqys5ep1']
+2024-05-14 02:49:03 INFO Cleaning up finished run: vqys5ep1
+2024-05-14 02:49:03 INFO Agent received command: run
+2024-05-14 02:49:03 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 0
+	seed: 3
+2024-05-14 02:49:03 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=0 --seed=3
+2024-05-14 02:49:08 INFO Running runs: ['08zld6zk']
+2024-05-14 03:18:49 INFO Cleaning up finished run: 08zld6zk
+2024-05-14 03:18:49 INFO Agent received command: run
+2024-05-14 03:18:49 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 0
+	seed: 4
+2024-05-14 03:18:49 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=0 --seed=4
+2024-05-14 03:18:54 INFO Running runs: ['xkfjd2w6']
+2024-05-14 03:48:48 INFO Cleaning up finished run: xkfjd2w6
+2024-05-14 03:48:48 INFO Agent received command: run
+2024-05-14 03:48:48 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 0
+	seed: 5
+2024-05-14 03:48:48 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=0 --seed=5
+2024-05-14 03:48:53 INFO Running runs: ['o70hacrc']
+2024-05-14 04:17:47 INFO Cleaning up finished run: o70hacrc
+2024-05-14 04:17:47 INFO Agent received command: run
+2024-05-14 04:17:47 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 1
+2024-05-14 04:17:47 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=4 --seed=1
+2024-05-14 04:17:52 INFO Running runs: ['4swj03qb']
+2024-05-14 07:10:45 INFO Cleaning up finished run: 4swj03qb
+2024-05-14 07:10:45 INFO Agent received command: run
+2024-05-14 07:10:45 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 2
+2024-05-14 07:10:45 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=4 --seed=2
+2024-05-14 07:10:50 INFO Running runs: ['it42460u']
+2024-05-14 10:10:24 INFO Cleaning up finished run: it42460u
+2024-05-14 10:10:24 INFO Agent received command: run
+2024-05-14 10:10:24 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 3
+2024-05-14 10:10:24 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=4 --seed=3
+2024-05-14 10:10:29 INFO Running runs: ['j2a7fdt1']
+2024-05-14 13:09:22 INFO Cleaning up finished run: j2a7fdt1
+2024-05-14 13:09:22 INFO Agent received command: run
+2024-05-14 13:09:22 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 4
+2024-05-14 13:09:22 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=4 --seed=4
+2024-05-14 13:09:27 INFO Running runs: ['scb6pj6z']
+2024-05-14 16:09:39 INFO Cleaning up finished run: scb6pj6z
+2024-05-14 16:09:39 INFO Agent received command: run
+2024-05-14 16:09:39 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 5
+2024-05-14 16:09:39 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=20 --online_simulation_factor=4 --seed=5
+2024-05-14 16:09:44 INFO Running runs: ['zv0nkjg8']
+2024-05-14 19:07:55 INFO Cleaning up finished run: zv0nkjg8
+2024-05-14 19:07:55 INFO Agent received command: run
+2024-05-14 19:07:55 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 0
+	seed: 1
+2024-05-14 19:07:55 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=0 --seed=1
+2024-05-14 19:08:00 INFO Running runs: ['9pk9h6if']
+2024-05-14 19:40:50 INFO Cleaning up finished run: 9pk9h6if
+2024-05-14 19:40:50 INFO Agent received command: run
+2024-05-14 19:40:50 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 0
+	seed: 2
+2024-05-14 19:40:50 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=0 --seed=2
+2024-05-14 19:40:55 INFO Running runs: ['34gjb8xc']
+2024-05-14 20:12:22 INFO Cleaning up finished run: 34gjb8xc
+2024-05-14 20:12:22 INFO Agent received command: run
+2024-05-14 20:12:22 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 0
+	seed: 3
+2024-05-14 20:12:22 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=0 --seed=3
+2024-05-14 20:12:27 INFO Running runs: ['behmcn8j']
+2024-05-14 20:45:01 INFO Cleaning up finished run: behmcn8j
+2024-05-14 20:45:05 INFO Agent received command: run
+2024-05-14 20:45:05 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 0
+	seed: 4
+2024-05-14 20:45:05 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=0 --seed=4
+2024-05-14 20:45:10 INFO Running runs: ['srttp4mk']
+2024-05-14 21:17:07 INFO Cleaning up finished run: srttp4mk
+2024-05-14 21:17:07 INFO Agent received command: run
+2024-05-14 21:17:07 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 0
+	seed: 5
+2024-05-14 21:17:07 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=0 --seed=5
+2024-05-14 21:17:12 INFO Running runs: ['o7i3hhyk']
+2024-05-14 21:50:20 INFO Cleaning up finished run: o7i3hhyk
+2024-05-14 21:50:20 INFO Agent received command: run
+2024-05-14 21:50:20 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 4
+	seed: 1
+2024-05-14 21:50:20 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=4 --seed=1
+2024-05-14 21:50:25 INFO Running runs: ['et0iq3e5']
+2024-05-15 01:28:14 INFO Cleaning up finished run: et0iq3e5
+2024-05-15 01:28:14 INFO Agent received command: run
+2024-05-15 01:28:14 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 4
+	seed: 2
+2024-05-15 01:28:14 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=4 --seed=2
+2024-05-15 01:28:19 INFO Running runs: ['s6nkqyow']
+2024-05-15 04:53:18 INFO Cleaning up finished run: s6nkqyow
+2024-05-15 04:53:18 INFO Agent received command: run
+2024-05-15 04:53:18 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 4
+	seed: 3
+2024-05-15 04:53:18 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=4 --seed=3
+2024-05-15 04:53:23 INFO Running runs: ['7o88anjg']
+2024-05-15 08:18:31 INFO Cleaning up finished run: 7o88anjg
+2024-05-15 08:18:32 INFO Agent received command: run
+2024-05-15 08:18:32 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 4
+	seed: 4
+2024-05-15 08:18:32 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=4 --seed=4
+2024-05-15 08:18:37 INFO Running runs: ['jyz6gvv2']
+2024-05-15 11:42:24 INFO Cleaning up finished run: jyz6gvv2
+2024-05-15 11:42:24 INFO Agent received command: run
+2024-05-15 11:42:24 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 31
+	online_simulation_factor: 4
+	seed: 5
+2024-05-15 11:42:24 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=31 --online_simulation_factor=4 --seed=5
+2024-05-15 11:42:29 INFO Running runs: ['42wzs4ws']
+2024-05-15 15:05:40 INFO Cleaning up finished run: 42wzs4ws
+2024-05-15 15:05:40 INFO Agent received command: run
+2024-05-15 15:05:40 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 0
+	seed: 1
+2024-05-15 15:05:40 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=0 --seed=1
+2024-05-15 15:05:45 INFO Running runs: ['ob15yfdv']
+2024-05-15 15:35:15 INFO Cleaning up finished run: ob15yfdv
+2024-05-15 15:35:15 INFO Agent received command: run
+2024-05-15 15:35:15 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 0
+	seed: 2
+2024-05-15 15:35:15 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=0 --seed=2
+2024-05-15 15:35:20 INFO Running runs: ['k8xn16sb']
+2024-05-15 16:03:51 INFO Cleaning up finished run: k8xn16sb
+2024-05-15 16:03:51 INFO Agent received command: run
+2024-05-15 16:03:51 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 0
+	seed: 3
+2024-05-15 16:03:51 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=0 --seed=3
+2024-05-15 16:03:56 INFO Running runs: ['l5dz4x55']
+2024-05-15 16:33:15 INFO Cleaning up finished run: l5dz4x55
+2024-05-15 16:33:16 INFO Agent received command: run
+2024-05-15 16:33:16 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 0
+	seed: 4
+2024-05-15 16:33:16 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=0 --seed=4
+2024-05-15 16:33:21 INFO Running runs: ['jg97t2m9']
+2024-05-15 17:03:54 INFO Cleaning up finished run: jg97t2m9
+2024-05-15 17:03:55 INFO Agent received command: run
+2024-05-15 17:03:55 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 0
+	seed: 5
+2024-05-15 17:03:55 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=0 --seed=5
+2024-05-15 17:04:00 INFO Running runs: ['h4lk5rkt']
+2024-05-15 17:34:33 INFO Cleaning up finished run: h4lk5rkt
+2024-05-15 17:34:36 INFO Agent received command: run
+2024-05-15 17:34:36 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 4
+	seed: 1
+2024-05-15 17:34:36 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=4 --seed=1
+2024-05-15 17:34:41 INFO Running runs: ['zlynu56h']
+2024-05-16 07:40:14 INFO Running runs: []
+2024-05-16 07:40:14 INFO Agent received command: run
+2024-05-16 07:40:14 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 0
+	seed: 1
+2024-05-16 07:40:14 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=0 --seed=1
+2024-05-16 07:40:19 INFO Running runs: ['8s5rrq1h']
+2024-05-16 07:41:57 INFO Running runs: []
+2024-05-16 07:41:57 INFO Agent received command: run
+2024-05-16 07:41:57 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 33
+	online_simulation_factor: 0
+	seed: 1
+2024-05-16 07:41:57 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=33 --online_simulation_factor=0 --seed=1
+2024-05-16 07:42:02 INFO Running runs: ['gh4ypakv']
+2024-05-16 07:42:06 ERROR 404 response executing GraphQL.
+2024-05-16 07:42:06 ERROR {"errors":[{"message":"could not find agent ts2ectei during agentHeartbeat","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2024-05-16 07:44:51 INFO Running runs: []
+2024-05-16 07:44:51 INFO Agent received command: run
+2024-05-16 07:44:51 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 4
+	seed: 1
+2024-05-16 07:44:51 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=4 --seed=1
+2024-05-16 07:44:56 INFO Running runs: ['sg9rixni']
+2024-05-16 07:45:06 INFO Running runs: []
+2024-05-16 07:45:06 INFO Agent received command: run
+2024-05-16 07:45:06 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 4
+	seed: 1
+2024-05-16 07:45:06 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=4 --seed=1
+2024-05-16 07:45:11 INFO Running runs: ['ss3tjisz']
+2024-05-16 07:45:14 ERROR 404 response executing GraphQL.
+2024-05-16 07:45:14 ERROR {"errors":[{"message":"could not find agent vadctqga during agentHeartbeat","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2024-05-16 07:45:17 ERROR 404 response executing GraphQL.
+2024-05-16 07:45:17 ERROR {"errors":[{"message":"could not find agent 9bmrlduv during agentHeartbeat","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2024-05-16 12:18:35 INFO Cleaning up finished run: ss3tjisz
+2024-05-16 12:19:04 INFO Agent received command: run
+2024-05-16 12:19:04 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 4
+	seed: 2
+2024-05-16 12:19:04 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=4 --seed=2
+2024-05-16 12:19:09 INFO Running runs: ['gcpofhpx']
+2024-05-16 16:50:58 INFO Cleaning up finished run: gcpofhpx
+2024-05-16 16:50:58 INFO Agent received command: run
+2024-05-16 16:50:58 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 4
+	seed: 3
+2024-05-16 16:50:58 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=4 --seed=3
+2024-05-16 16:51:03 INFO Running runs: ['p5kzxofa']
+2024-05-16 21:22:10 INFO Cleaning up finished run: p5kzxofa
+2024-05-16 21:22:10 INFO Agent received command: run
+2024-05-16 21:22:10 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 4
+	seed: 4
+2024-05-16 21:22:10 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=4 --seed=4
+2024-05-16 21:22:15 INFO Running runs: ['m3yib0q6']
+2024-05-17 01:56:10 INFO Cleaning up finished run: m3yib0q6
+2024-05-17 01:56:10 INFO Agent received command: run
+2024-05-17 01:56:10 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 32
+	online_simulation_factor: 4
+	seed: 5
+2024-05-17 01:56:10 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=32 --online_simulation_factor=4 --seed=5
+2024-05-17 01:56:15 INFO Running runs: ['iu9nmt8e']
+2024-05-17 06:29:00 INFO Cleaning up finished run: iu9nmt8e
+2024-05-17 06:29:01 INFO Agent received command: run
+2024-05-17 06:29:01 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 33
+	online_simulation_factor: 4
+	seed: 1
+2024-05-17 06:29:01 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=33 --online_simulation_factor=4 --seed=1
+2024-05-17 06:29:06 INFO Running runs: ['apbf9sqf']
+2024-05-17 06:35:03 ERROR 502 response executing GraphQL.
+2024-05-17 06:35:03 ERROR 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
+
+2024-05-17 12:59:28 INFO Cleaning up finished run: apbf9sqf
+2024-05-17 12:59:29 INFO Agent received command: run
+2024-05-17 12:59:29 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 33
+	online_simulation_factor: 4
+	seed: 2
+2024-05-17 12:59:29 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=33 --online_simulation_factor=4 --seed=2
+2024-05-17 12:59:34 INFO Running runs: ['91tot7r1']
+2024-05-17 19:29:22 INFO Cleaning up finished run: 91tot7r1
+2024-05-17 19:29:22 INFO Agent received command: run
+2024-05-17 19:29:22 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 33
+	online_simulation_factor: 4
+	seed: 3
+2024-05-17 19:29:22 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=33 --online_simulation_factor=4 --seed=3
+2024-05-17 19:29:27 INFO Running runs: ['9608fszr']
+2024-05-18 02:01:22 INFO Cleaning up finished run: 9608fszr
+2024-05-18 02:01:22 INFO Agent received command: run
+2024-05-18 02:01:22 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 33
+	online_simulation_factor: 4
+	seed: 4
+2024-05-18 02:01:22 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=33 --online_simulation_factor=4 --seed=4
+2024-05-18 02:01:27 INFO Running runs: ['1y2eulkb']
+2024-05-18 02:41:29 ERROR 502 response executing GraphQL.
+2024-05-18 02:41:29 ERROR 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
+
+2024-05-18 08:32:45 INFO Cleaning up finished run: 1y2eulkb
+2024-05-18 08:32:46 INFO Agent received command: run
+2024-05-18 08:32:46 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 33
+	online_simulation_factor: 4
+	seed: 5
+2024-05-18 08:32:46 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=33 --online_simulation_factor=4 --seed=5
+2024-05-18 08:32:51 INFO Running runs: ['1dccxj00']
+2024-05-18 15:02:14 INFO Cleaning up finished run: 1dccxj00
+2024-05-18 15:02:14 INFO Agent received command: run
+2024-05-18 15:02:14 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 27
+	online_simulation_factor: 4
+	seed: 1
+2024-05-18 15:02:14 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=27 --online_simulation_factor=4 --seed=1
+2024-05-18 15:02:19 INFO Running runs: ['s0vfik2k']
+2024-05-18 20:09:22 INFO Cleaning up finished run: s0vfik2k
+2024-05-18 20:09:22 INFO Agent received command: run
+2024-05-18 20:09:22 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 27
+	online_simulation_factor: 4
+	seed: 2
+2024-05-18 20:09:22 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=27 --online_simulation_factor=4 --seed=2
+2024-05-18 20:09:27 INFO Running runs: ['w6r70gs2']
+2024-05-19 01:04:18 INFO Cleaning up finished run: w6r70gs2
+2024-05-19 01:04:18 INFO Agent received command: run
+2024-05-19 01:04:18 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 27
+	online_simulation_factor: 4
+	seed: 3
+2024-05-19 01:04:18 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=27 --online_simulation_factor=4 --seed=3
+2024-05-19 01:04:23 INFO Running runs: ['2fnyppmq']
+2024-05-19 05:57:17 INFO Cleaning up finished run: 2fnyppmq
+2024-05-19 05:57:17 INFO Agent received command: run
+2024-05-19 05:57:17 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 27
+	online_simulation_factor: 4
+	seed: 4
+2024-05-19 05:57:17 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=27 --online_simulation_factor=4 --seed=4
+2024-05-19 05:57:22 INFO Running runs: ['p00rjraf']
+2024-05-19 10:50:45 INFO Cleaning up finished run: p00rjraf
+2024-05-19 10:50:45 INFO Agent received command: run
+2024-05-19 10:50:45 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 27
+	online_simulation_factor: 4
+	seed: 5
+2024-05-19 10:50:45 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=27 --online_simulation_factor=4 --seed=5
+2024-05-19 10:50:50 INFO Running runs: ['cmbwo3k9']
+2024-05-19 15:46:02 INFO Cleaning up finished run: cmbwo3k9
+2024-05-19 15:46:03 INFO Agent received command: run
+2024-05-19 15:46:03 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 26
+	online_simulation_factor: 4
+	seed: 1
+2024-05-19 15:46:03 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=26 --online_simulation_factor=4 --seed=1
+2024-05-19 15:46:08 INFO Running runs: ['smm1i4zp']
+2024-05-19 20:13:09 INFO Cleaning up finished run: smm1i4zp
+2024-05-19 20:13:09 INFO Agent received command: run
+2024-05-19 20:13:09 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 26
+	online_simulation_factor: 4
+	seed: 2
+2024-05-19 20:13:09 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=26 --online_simulation_factor=4 --seed=2
+2024-05-19 20:13:14 INFO Running runs: ['g60q6auq']
+2024-05-20 00:49:37 INFO Cleaning up finished run: g60q6auq
+2024-05-20 00:49:37 INFO Agent received command: run
+2024-05-20 00:49:37 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 26
+	online_simulation_factor: 4
+	seed: 3
+2024-05-20 00:49:37 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=26 --online_simulation_factor=4 --seed=3
+2024-05-20 00:49:42 INFO Running runs: ['s4wj7ah8']
+2024-05-20 05:42:38 INFO Cleaning up finished run: s4wj7ah8
+2024-05-20 05:42:38 INFO Agent received command: run
+2024-05-20 05:42:38 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 26
+	online_simulation_factor: 4
+	seed: 4
+2024-05-20 05:42:38 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=26 --online_simulation_factor=4 --seed=4
+2024-05-20 05:42:43 INFO Running runs: ['s3mt4yn9']
+2024-05-20 10:24:00 INFO Cleaning up finished run: s3mt4yn9
+2024-05-20 10:24:00 INFO Agent received command: run
+2024-05-20 10:24:00 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 26
+	online_simulation_factor: 4
+	seed: 5
+2024-05-20 10:24:00 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=26 --online_simulation_factor=4 --seed=5
+2024-05-20 10:24:05 INFO Running runs: ['pfpbh1a2']
+2024-05-20 15:00:05 INFO Cleaning up finished run: pfpbh1a2
+2024-05-20 15:00:15 INFO Agent received command: run
+2024-05-20 15:00:15 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 28
+	online_simulation_factor: 4
+	seed: 1
+2024-05-20 15:00:15 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=28 --online_simulation_factor=4 --seed=1
+2024-05-20 15:00:20 INFO Running runs: ['2zbda7oc']
+2024-05-20 16:07:47 INFO Running runs: []
+2024-05-20 16:07:47 INFO Agent received command: run
+2024-05-20 16:07:47 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 30
+	online_simulation_factor: 4
+	seed: 1
+2024-05-20 16:07:47 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=30 --online_simulation_factor=4 --seed=1
+2024-05-20 16:07:52 INFO Running runs: ['ch74l93j']
+2024-05-20 16:10:45 INFO Running runs: []
+2024-05-20 16:10:46 INFO Agent received command: run
+2024-05-20 16:10:46 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 1
+2024-05-20 16:10:46 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=1
+2024-05-20 16:10:51 INFO Running runs: ['4jchi1d3']
+2024-05-20 16:12:16 ERROR 404 response executing GraphQL.
+2024-05-20 16:12:16 ERROR {"errors":[{"message":"could not find agent 3vw5wate during agentHeartbeat","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2024-05-20 17:57:15 INFO Cleaning up finished run: 2zbda7oc
+2024-05-20 17:57:15 INFO Agent received command: run
+2024-05-20 17:57:15 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 28
+	online_simulation_factor: 4
+	seed: 2
+2024-05-20 17:57:15 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=28 --online_simulation_factor=4 --seed=2
+2024-05-20 17:57:20 INFO Running runs: ['dwivepkz']
+2024-05-20 20:49:42 INFO Cleaning up finished run: 4jchi1d3
+2024-05-20 20:50:08 INFO Agent received command: run
+2024-05-20 20:50:08 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 2
+2024-05-20 20:50:08 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=2
+2024-05-20 20:50:13 INFO Running runs: ['3mgdsw4m']
+2024-05-20 20:57:09 INFO Cleaning up finished run: dwivepkz
+2024-05-20 20:57:10 INFO Agent received command: run
+2024-05-20 20:57:10 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 28
+	online_simulation_factor: 4
+	seed: 3
+2024-05-20 20:57:10 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=28 --online_simulation_factor=4 --seed=3
+2024-05-20 20:57:15 INFO Running runs: ['9vr0t3gm']
+2024-05-20 22:04:56 ERROR 502 response executing GraphQL.
+2024-05-20 22:04:56 ERROR 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
+
+2024-05-20 23:57:01 INFO Cleaning up finished run: 9vr0t3gm
+2024-05-20 23:57:01 INFO Agent received command: run
+2024-05-20 23:57:01 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 28
+	online_simulation_factor: 4
+	seed: 4
+2024-05-20 23:57:01 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=28 --online_simulation_factor=4 --seed=4
+2024-05-20 23:57:06 INFO Running runs: ['sx2hmvbd']
+2024-05-21 01:35:06 INFO Cleaning up finished run: 3mgdsw4m
+2024-05-21 01:35:06 INFO Agent received command: run
+2024-05-21 01:35:06 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 3
+2024-05-21 01:35:06 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=3
+2024-05-21 01:35:11 INFO Running runs: ['s3qan0pe']
+2024-05-21 02:31:33 ERROR 502 response executing GraphQL.
+2024-05-21 02:31:33 ERROR 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
+
+2024-05-21 02:56:54 INFO Cleaning up finished run: sx2hmvbd
+2024-05-21 02:56:54 INFO Agent received command: run
+2024-05-21 02:56:54 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 28
+	online_simulation_factor: 4
+	seed: 5
+2024-05-21 02:56:54 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=28 --online_simulation_factor=4 --seed=5
+2024-05-21 02:56:59 INFO Running runs: ['j8tf3f09']
+2024-05-21 05:53:13 INFO Cleaning up finished run: j8tf3f09
+2024-05-21 05:53:13 INFO Agent received command: run
+2024-05-21 05:53:13 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 1
+2024-05-21 05:53:13 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=12 --online_simulation_factor=4 --seed=1
+2024-05-21 05:53:18 INFO Running runs: ['r7qwfc2s']
+2024-05-21 06:17:14 INFO Cleaning up finished run: s3qan0pe
+2024-05-21 06:17:14 INFO Agent received command: run
+2024-05-21 06:17:14 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 4
+2024-05-21 06:17:14 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=4
+2024-05-21 06:17:19 INFO Running runs: ['kmei3r5j']
+2024-05-21 07:59:21 INFO Cleaning up finished run: r7qwfc2s
+2024-05-21 07:59:21 INFO Agent received command: run
+2024-05-21 07:59:21 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 2
+2024-05-21 07:59:21 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=12 --online_simulation_factor=4 --seed=2
+2024-05-21 07:59:26 INFO Running runs: ['h1yvlifb']
+2024-05-21 09:06:55 INFO Running runs: []
+2024-05-21 09:06:55 INFO Agent received command: run
+2024-05-21 09:06:55 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 21
+	online_simulation_factor: 4
+	seed: 1
+2024-05-21 09:06:55 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=21 --online_simulation_factor=4 --seed=1
+2024-05-21 09:07:00 INFO Running runs: ['xv9vobh9']
+2024-05-21 10:04:51 INFO Cleaning up finished run: h1yvlifb
+2024-05-21 10:04:52 INFO Agent received command: run
+2024-05-21 10:04:52 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 3
+2024-05-21 10:04:52 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=12 --online_simulation_factor=4 --seed=3
+2024-05-21 10:04:57 INFO Running runs: ['ksf0nelo']
+2024-05-21 10:52:18 INFO Cleaning up finished run: xv9vobh9
+2024-05-21 10:52:44 INFO Agent received command: run
+2024-05-21 10:52:44 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 21
+	online_simulation_factor: 4
+	seed: 2
+2024-05-21 10:52:44 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=21 --online_simulation_factor=4 --seed=2
+2024-05-21 10:52:49 INFO Running runs: ['y0xk95m3']
+2024-05-21 10:58:28 INFO Cleaning up finished run: kmei3r5j
+2024-05-21 10:58:28 INFO Agent received command: run
+2024-05-21 10:58:28 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 5
+2024-05-21 10:58:28 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=29 --online_simulation_factor=4 --seed=5
+2024-05-21 10:58:33 INFO Running runs: ['voi8rztb']
+2024-05-21 12:15:32 INFO Cleaning up finished run: ksf0nelo
+2024-05-21 12:15:33 INFO Agent received command: run
+2024-05-21 12:15:33 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 4
+2024-05-21 12:15:33 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=12 --online_simulation_factor=4 --seed=4
+2024-05-21 12:15:38 INFO Running runs: ['x89z3rx7']
+2024-05-21 12:42:35 INFO Cleaning up finished run: y0xk95m3
+2024-05-21 12:42:35 INFO Agent received command: run
+2024-05-21 12:42:35 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 21
+	online_simulation_factor: 4
+	seed: 3
+2024-05-21 12:42:35 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=21 --online_simulation_factor=4 --seed=3
+2024-05-21 12:42:40 INFO Running runs: ['907dfdg1']
+2024-05-21 14:30:46 INFO Cleaning up finished run: x89z3rx7
+2024-05-21 14:30:47 INFO Agent received command: run
+2024-05-21 14:30:47 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 5
+2024-05-21 14:30:47 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=12 --online_simulation_factor=4 --seed=5
+2024-05-21 14:30:52 INFO Running runs: ['bwv6wsod']
+2024-05-21 14:31:08 INFO Cleaning up finished run: 907dfdg1
+2024-05-21 14:31:08 INFO Agent received command: run
+2024-05-21 14:31:08 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 21
+	online_simulation_factor: 4
+	seed: 4
+2024-05-21 14:31:08 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=21 --online_simulation_factor=4 --seed=4
+2024-05-21 14:31:13 INFO Running runs: ['u8zt922e']
+2024-05-21 15:15:12 ERROR 502 response executing GraphQL.
+2024-05-21 15:15:12 ERROR 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
+
+2024-05-21 15:53:28 INFO Cleaning up finished run: voi8rztb
+2024-05-21 15:53:28 INFO Agent received command: run
+2024-05-21 15:53:28 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 30
+	online_simulation_factor: 4
+	seed: 1
+2024-05-21 15:53:28 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=30 --online_simulation_factor=4 --seed=1
+2024-05-21 15:53:33 INFO Running runs: ['n5z8wdee']
+2024-05-21 16:19:52 INFO Cleaning up finished run: u8zt922e
+2024-05-21 16:19:52 INFO Agent received command: run
+2024-05-21 16:19:52 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	basic_nature: 21
+	online_simulation_factor: 4
+	seed: 5
+2024-05-21 16:19:52 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --basic_nature=21 --online_simulation_factor=4 --seed=5
+2024-05-21 16:19:57 INFO Running runs: ['ppf9esn7']
+2024-05-21 16:43:04 INFO Cleaning up finished run: bwv6wsod
+2024-05-21 16:43:05 INFO Agent received command: exit
+2024-05-21 16:43:05 INFO Received exit command. Killing runs and quitting.

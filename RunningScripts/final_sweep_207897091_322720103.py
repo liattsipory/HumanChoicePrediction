@@ -50,6 +50,7 @@ sweep_config_2_no_metric = {
     },
     "command": command
 }
+
 sweep_config_3_with_metric_all = {
     "name": "decide between all new astrengies with metric",
     "method": "grid",
@@ -192,12 +193,66 @@ sweep_config_final = {
     },
     "command": command
 }
+sweep_config_final_other_combinations = {
+    "name": "run final config_other comb",
+    "method": "grid",
+    # "metric": {
+    #     "goal": "maximize",
+    #     "name": "AUC.test.max"
+    # },
+    "parameters": {
+        "ENV_HPT_mode": {"values": [False]},
+        #"architecture": {"values": ["LSTM"]},
+        "seed": {"values": list(range(1, 6))},
+        "online_simulation_factor": {"values": [0, 4]},
+        #"features": {"values": ["EFs", "GPT4", "BERT"]},
+        "basic_nature": {"values": [29,20,31,32,33]},
+    },
+    "command": command
+}
+sweep_config_final_try_to_complete = {
+    "name": "try to complete - 32, 33,27,26,28,12",
+    "method": "grid",
+    # "metric": {
+    #     "goal": "maximize",
+    #     "name": "AUC.test.max"
+    # },
+    "parameters": {
+        "ENV_HPT_mode": {"values": [False]},
+        #"architecture": {"values": ["LSTM"]},
+        "seed": {"values": list(range(1, 6))},
+        "online_simulation_factor": {"values": [4]},
+        #"features": {"values": ["EFs", "GPT4", "BERT"]},
+        "basic_nature": {"values": [32, 33,27,26,28,12]},
+    },
+    "command": command
+}
+
+sweep_config_final_try_to_complete_2 = {
+    "name": "try to complete -21",
+    "method": "grid",
+    # "metric": {
+    #     "goal": "maximize",
+    #     "name": "AUC.test.max"
+    # },
+    "parameters": {
+        "ENV_HPT_mode": {"values": [False]},
+        #"architecture": {"values": ["LSTM"]},
+        "seed": {"values": list(range(1, 6))},
+        "online_simulation_factor": {"values": [4]},
+        #"features": {"values": ["EFs", "GPT4", "BERT"]},
+        "basic_nature": {"values": [21]},
+    },
+    "command": command
+}
+
+
 # sweep_id = wandb.sweep(sweep=sweep_config, project=project)
 # print("run this line to run your agent in a screen:")
 # print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
 
-sweep_id = wandb.sweep(sweep=sweep_config_final, project=project)
-print("run final config on best astrategies on test set")
+sweep_id = wandb.sweep(sweep=sweep_config_final_try_to_complete_2, project=project)
+print("run this line to run your agent in a screen:")
 print(f"screen -dmS \"sweep_agent\" wandb agent {YOUR_WANDB_USERNAME}/{project}/{sweep_id}")
 # sweep_id = wandb.sweep(sweep=sweep_config_0, project=project)
 # print("run this line to run your agent in a screen:")

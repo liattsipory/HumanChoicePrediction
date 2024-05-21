@@ -1,0 +1,110 @@
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'ENV_HPT_mode' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'seed' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'basic_nature' was locked by 'sweep' (ignored update).
+[34m[1mwandb[39m[22m: [33mWARNING[39m Config item 'online_simulation_factor' was locked by 'sweep' (ignored update).
+Start training the environment...
+Train:   1%|▎                                 | 24/2260 [00:00<00:41, 53.52it/s]
+################
+# Epoch 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|███████████████████████████████▉| 2259/2260 [00:52<00:00, 42.76it/s]
+
+
+
+
+
+
+Test: 642it [00:12, 49.65it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7500151022429699
+accuracy_per_mean_user_and_bot:  0.818457456571347
+################
+# Epoch 1
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train: 100%|███████████████████████████████▉| 2259/2260 [00:53<00:00, 42.29it/s]
+
+
+
+
+
+
+Test: 642it [00:12, 50.33it/s]
+proba_accuracy_per_mean_user_and_bot:  0.7565501893792739
+accuracy_per_mean_user_and_bot:  0.8245861520831862
+################
+# Epoch 2
+################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Train:  93%|█████████████████████████████▋  | 2094/2260 [00:50<00:03, 41.95it/s]
