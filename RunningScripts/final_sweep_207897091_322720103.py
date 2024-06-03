@@ -229,7 +229,7 @@ sweep_config_final_try_to_complete = {
 }
 
 sweep_config_final_try_to_complete_2 = {
-    "name": "try to complete -21",
+    "name": "try to complete -21, 30, 34",
     "method": "grid",
     # "metric": {
     #     "goal": "maximize",
@@ -237,11 +237,11 @@ sweep_config_final_try_to_complete_2 = {
     # },
     "parameters": {
         "ENV_HPT_mode": {"values": [False]},
-        #"architecture": {"values": ["LSTM"]},
+        "architecture": {"values": ["LSTM"]},
         "seed": {"values": list(range(1, 6))},
         "online_simulation_factor": {"values": [4]},
         #"features": {"values": ["EFs", "GPT4", "BERT"]},
-        "basic_nature": {"values": [21]},
+        "basic_nature": {"values": [21, 30, 34]},
     },
     "command": command
 }
