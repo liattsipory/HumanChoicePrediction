@@ -198,9 +198,9 @@ def HRQ_relaxed_2(history_window, quality_threshold):
     def func(information):
         if len(information["previous_rounds"]) == 0 \
                 or history_window == 0 \
-                or np.average(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
+                or np.mean(np.array([((r[BOT_ACTION] >= 8 and r[REVIEWS].mean() >= 8)
                                      or (r[BOT_ACTION] <= 8 and r[REVIEWS].mean() < 8)) for r in
-                                    information["previous_rounds"][
+                                    information["prevaverageious_rounds"][
                                     -history_window:]])) >= 0.8:  # cooperation from *result's* perspective
             if information["bot_message"] >= quality_threshold:  # good hotel from user's perspective
                 return 1
