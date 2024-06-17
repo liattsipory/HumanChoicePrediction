@@ -8418,3 +8418,13 @@ wandb.errors.CommError: entityName required for project query (Error 400: Bad Re
 	seed: 1
 2024-06-17 09:29:21 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=29 --online_simulation_factor=4 --seed=1
 2024-06-17 09:29:26 INFO Running runs: ['nnmnl8se']
+2024-06-17 14:07:22 INFO Cleaning up finished run: nnmnl8se
+2024-06-17 14:07:23 INFO Agent received command: run
+2024-06-17 14:07:23 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 2
+2024-06-17 14:07:23 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=29 --online_simulation_factor=4 --seed=2
+2024-06-17 14:07:28 INFO Running runs: ['4kdnfrmx']
