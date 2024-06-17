@@ -10961,3 +10961,223 @@
 2024-06-17 15:45:09,564 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
 2024-06-17 15:45:09,682 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
 2024-06-17 15:45:10,561 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:11,565 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:12,574 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:12,852 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:13,574 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:13,683 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:14,578 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:15,582 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:15,684 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:17,015 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:17,414 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:45:17,414 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:45:17,685 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:17,871 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:18,021 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:19,022 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:19,686 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:20,022 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:21,019 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:21,686 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:22,027 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:23,024 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:23,156 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:23,687 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:24,036 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:25,042 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:25,688 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:26,037 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:27,040 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:27,688 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:28,041 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:28,669 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:28,833 DEBUG   SenderThread:3550429 [sender.py:send():379] send: stats
+2024-06-17 15:45:29,044 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:29,689 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:30,063 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:31,067 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:31,690 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:32,055 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:32,423 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:45:32,423 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:45:33,062 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:33,691 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:33,841 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:34,065 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:35,067 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:35,691 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:36,074 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:37,069 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:37,692 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:38,082 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:39,085 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:39,221 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:39,693 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:40,082 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:41,084 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:41,694 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:42,087 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:43,095 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:43,695 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:44,110 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:44,255 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:45,109 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:45,696 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:46,114 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:47,123 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:47,421 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:45:47,421 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:45:47,697 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:48,118 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:49,110 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:49,316 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:49,698 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:50,110 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:51,110 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:51,699 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:52,110 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:53,111 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:53,700 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:54,111 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:54,333 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:55,111 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:55,700 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:56,111 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:57,111 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:57,701 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:45:58,111 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:58,827 DEBUG   SenderThread:3550429 [sender.py:send():379] send: stats
+2024-06-17 15:45:59,115 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:45:59,386 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:45:59,702 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:00,112 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:01,112 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:01,702 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:02,113 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:02,415 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:46:02,416 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:46:03,113 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:03,703 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:04,113 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:04,482 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:05,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:05,704 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:06,117 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:07,114 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:07,705 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:08,114 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:09,114 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:09,513 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:09,707 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:10,115 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:11,114 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:11,707 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:12,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:13,115 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:13,708 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:14,115 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:14,604 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:15,115 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:15,709 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:16,115 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:17,118 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:17,417 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:46:17,418 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:46:17,709 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:18,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:19,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:19,646 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:19,710 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:20,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:21,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:21,711 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:22,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:23,116 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:23,712 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:24,117 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:24,674 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:25,120 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:25,713 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:26,117 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:27,120 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:27,713 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:28,118 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:28,827 DEBUG   SenderThread:3550429 [sender.py:send():379] send: stats
+2024-06-17 15:46:29,118 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:29,714 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:29,770 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:30,118 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:31,119 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:31,715 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:32,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:32,416 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:46:32,416 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:46:33,122 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:33,715 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:34,120 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:34,804 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:35,120 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:35,716 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:36,120 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:37,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:37,717 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:38,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:39,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:39,718 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:39,861 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:40,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:41,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:41,718 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:42,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:43,121 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:43,719 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:44,125 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:44,914 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:45,122 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:45,720 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:46,122 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:47,122 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:47,420 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:46:47,420 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:46:47,720 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:48,122 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:49,122 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:49,721 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:50,003 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:50,123 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:51,123 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:51,722 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:52,126 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:53,124 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:53,722 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:54,124 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:55,088 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:46:55,124 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:55,723 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:56,126 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:57,124 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:57,724 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:46:58,124 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:58,828 DEBUG   SenderThread:3550429 [sender.py:send():379] send: stats
+2024-06-17 15:46:59,126 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:46:59,724 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:47:00,125 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:00,160 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:47:01,125 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:01,725 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:47:02,126 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:02,417 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: stop_status
+2024-06-17 15:47:02,418 DEBUG   SenderThread:3550429 [sender.py:send_request():406] send_request: stop_status
+2024-06-17 15:47:03,127 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:03,726 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:47:04,127 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:05,128 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:05,235 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: status_report
+2024-06-17 15:47:05,727 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:47:06,127 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:07,132 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:07,727 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
+2024-06-17 15:47:08,129 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:09,129 DEBUG   HandlerThread:3550429 [handler.py:handle_request():158] handle_request: internal_messages
+2024-06-17 15:47:09,728 INFO    Thread-12 :3550429 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/student/HumanChoicePrediction/HumanChoicePrediction-1/wandb/run-20240617_140728-4kdnfrmx/files/output.log
