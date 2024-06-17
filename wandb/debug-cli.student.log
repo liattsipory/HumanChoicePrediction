@@ -8235,3 +8235,186 @@ wandb.errors.CommError: entityName required for project query (Error 400: Bad Re
 	seed: 2
 2024-06-15 10:03:37 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=12 --online_simulation_factor=4 --seed=2
 2024-06-15 10:03:42 INFO Running runs: ['l8bdbx5f']
+2024-06-15 12:11:51 INFO Cleaning up finished run: l8bdbx5f
+2024-06-15 12:11:51 INFO Agent received command: run
+2024-06-15 12:11:51 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 3
+2024-06-15 12:11:51 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=12 --online_simulation_factor=4 --seed=3
+2024-06-15 12:11:56 INFO Running runs: ['5ljlb15q']
+2024-06-15 14:16:24 INFO Cleaning up finished run: 5ljlb15q
+2024-06-15 14:16:24 INFO Agent received command: run
+2024-06-15 14:16:24 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 4
+2024-06-15 14:16:24 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=12 --online_simulation_factor=4 --seed=4
+2024-06-15 14:16:29 INFO Running runs: ['ehwgeudw']
+2024-06-15 14:30:10 INFO Cleaning up finished run: q9dn5ndn
+2024-06-15 14:30:37 INFO Agent received command: run
+2024-06-15 14:30:37 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 2
+2024-06-15 14:30:37 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=29 --online_simulation_factor=4 --seed=2
+2024-06-15 14:30:42 INFO Running runs: ['e1unz88j']
+2024-06-15 16:22:37 INFO Cleaning up finished run: ehwgeudw
+2024-06-15 16:22:37 INFO Agent received command: run
+2024-06-15 16:22:37 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 12
+	online_simulation_factor: 4
+	seed: 5
+2024-06-15 16:22:37 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=12 --online_simulation_factor=4 --seed=5
+2024-06-15 16:22:42 INFO Running runs: ['yl1imu8n']
+2024-06-15 18:30:11 INFO Cleaning up finished run: yl1imu8n
+2024-06-15 18:30:11 INFO Agent received command: run
+2024-06-15 18:30:11 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 1
+2024-06-15 18:30:11 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=20 --online_simulation_factor=4 --seed=1
+2024-06-15 18:30:16 INFO Running runs: ['p6q69x7i']
+2024-06-15 19:13:02 INFO Cleaning up finished run: e1unz88j
+2024-06-15 19:13:02 INFO Agent received command: run
+2024-06-15 19:13:02 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 3
+2024-06-15 19:13:02 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=29 --online_simulation_factor=4 --seed=3
+2024-06-15 19:13:07 INFO Running runs: ['gu49oh6f']
+2024-06-15 21:25:29 INFO Cleaning up finished run: p6q69x7i
+2024-06-15 21:25:29 INFO Agent received command: run
+2024-06-15 21:25:29 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 2
+2024-06-15 21:25:29 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=20 --online_simulation_factor=4 --seed=2
+2024-06-15 21:25:34 INFO Running runs: ['968003bh']
+2024-06-15 23:54:39 INFO Cleaning up finished run: gu49oh6f
+2024-06-15 23:54:39 INFO Agent received command: run
+2024-06-15 23:54:39 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 4
+2024-06-15 23:54:39 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=29 --online_simulation_factor=4 --seed=4
+2024-06-15 23:54:44 INFO Running runs: ['2m7513pk']
+2024-06-16 00:22:09 INFO Cleaning up finished run: 968003bh
+2024-06-16 00:22:09 INFO Agent received command: run
+2024-06-16 00:22:09 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 3
+2024-06-16 00:22:09 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=20 --online_simulation_factor=4 --seed=3
+2024-06-16 00:22:14 INFO Running runs: ['l1oynou7']
+2024-06-16 03:19:56 INFO Cleaning up finished run: l1oynou7
+2024-06-16 03:19:57 INFO Agent received command: run
+2024-06-16 03:19:57 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 4
+2024-06-16 03:19:57 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=20 --online_simulation_factor=4 --seed=4
+2024-06-16 03:20:02 INFO Running runs: ['5dwxd386']
+2024-06-16 04:35:41 INFO Cleaning up finished run: 2m7513pk
+2024-06-16 04:35:41 INFO Agent received command: run
+2024-06-16 04:35:41 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 5
+2024-06-16 04:35:41 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=29 --online_simulation_factor=4 --seed=5
+2024-06-16 04:35:46 INFO Running runs: ['gjk32ziu']
+2024-06-16 06:21:28 INFO Cleaning up finished run: 5dwxd386
+2024-06-16 06:21:29 INFO Agent received command: run
+2024-06-16 06:21:29 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 20
+	online_simulation_factor: 4
+	seed: 5
+2024-06-16 06:21:29 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=20 --online_simulation_factor=4 --seed=5
+2024-06-16 06:21:34 INFO Running runs: ['gktlvnto']
+2024-06-16 09:20:12 INFO Cleaning up finished run: gjk32ziu
+2024-06-16 09:20:13 INFO Agent received command: exit
+2024-06-16 09:20:13 INFO Received exit command. Killing runs and quitting.
+2024-06-16 09:20:35 INFO Cleaning up finished run: gktlvnto
+2024-06-16 09:20:35 INFO Agent received command: run
+2024-06-16 09:20:35 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 24
+	online_simulation_factor: 4
+	seed: 1
+2024-06-16 09:20:35 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=24 --online_simulation_factor=4 --seed=1
+2024-06-16 09:20:40 INFO Running runs: ['rmq8mkj6']
+2024-06-16 14:08:15 INFO Cleaning up finished run: rmq8mkj6
+2024-06-16 14:08:15 INFO Agent received command: run
+2024-06-16 14:08:15 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 24
+	online_simulation_factor: 4
+	seed: 2
+2024-06-16 14:08:15 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=24 --online_simulation_factor=4 --seed=2
+2024-06-16 14:08:20 INFO Running runs: ['b84ndruy']
+2024-06-16 18:59:19 INFO Cleaning up finished run: b84ndruy
+2024-06-16 18:59:19 INFO Agent received command: run
+2024-06-16 18:59:19 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 24
+	online_simulation_factor: 4
+	seed: 3
+2024-06-16 18:59:19 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=24 --online_simulation_factor=4 --seed=3
+2024-06-16 18:59:24 INFO Running runs: ['hidb2h2z']
+2024-06-16 23:50:13 INFO Cleaning up finished run: hidb2h2z
+2024-06-16 23:50:14 INFO Agent received command: run
+2024-06-16 23:50:14 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 24
+	online_simulation_factor: 4
+	seed: 4
+2024-06-16 23:50:14 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=24 --online_simulation_factor=4 --seed=4
+2024-06-16 23:50:19 INFO Running runs: ['i3z5lpbt']
+2024-06-17 04:37:55 INFO Cleaning up finished run: i3z5lpbt
+2024-06-17 04:37:56 INFO Agent received command: run
+2024-06-17 04:37:56 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 24
+	online_simulation_factor: 4
+	seed: 5
+2024-06-17 04:37:56 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=24 --online_simulation_factor=4 --seed=5
+2024-06-17 04:38:01 INFO Running runs: ['t331iopj']
+2024-06-17 09:29:20 INFO Cleaning up finished run: t331iopj
+2024-06-17 09:29:20 INFO Agent received command: run
+2024-06-17 09:29:21 INFO Agent starting run with config:
+	ENV_HPT_mode: False
+	architecture: LSTM
+	basic_nature: 29
+	online_simulation_factor: 4
+	seed: 1
+2024-06-17 09:29:21 INFO About to run command: python StrategyTransfer.py --ENV_HPT_mode=False --architecture=LSTM --basic_nature=29 --online_simulation_factor=4 --seed=1
+2024-06-17 09:29:26 INFO Running runs: ['nnmnl8se']

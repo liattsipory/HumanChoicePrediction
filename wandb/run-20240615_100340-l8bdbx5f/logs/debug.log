@@ -39,3 +39,4 @@ config: {}
 2024-06-15 10:03:43,255 INFO    MainThread:2550357 [wandb_run.py:_config_callback():1382] config_cb input_dim 60 None
 2024-06-15 10:03:43,255 INFO    MainThread:2550357 [wandb_config.py:__setitem__():151] config set wandb_run_id = l8bdbx5f - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x7f4dce7844f0>>
 2024-06-15 10:03:43,255 INFO    MainThread:2550357 [wandb_run.py:_config_callback():1382] config_cb wandb_run_id l8bdbx5f None
+2024-06-15 12:11:48,614 WARNING MsgRouterThr:2550357 [router.py:message_loop():77] message_loop has been closed
